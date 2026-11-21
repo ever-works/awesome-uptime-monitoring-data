@@ -1,88 +1,324 @@
 - id: uptime
-  name: "Uptime"
+  name: Uptime
 - id: website-monitoring
-  name: "Website Monitoring"
+  name: Website Monitoring
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: api
-  name: "API"
+  name: API
 - id: incident-management
-  name: "Incident Management"
+  name: Incident Management
 - id: status-pages
-  name: "Status Pages"
+  name: Status Pages
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: dashboard
-  name: "Dashboard"
+  name: Dashboard
 - id: notifications
-  name: "Notifications"
+  name: Notifications
 - id: synthetic
-  name: "Synthetic"
+  name: Synthetic
 - id: api-monitoring
-  name: "API Monitoring"
+  name: Api Monitoring
 - id: playwright
-  name: "Playwright"
+  name: Playwright
 - id: ci-cd
-  name: "CI/CD"
+  name: CI/CD
 - id: cron
-  name: "Cron"
+  name: Cron
 - id: heartbeat
-  name: "Heartbeat"
+  name: Heartbeat
 - id: background-jobs
-  name: "Background Jobs"
+  name: Background Jobs
 - id: alerts
-  name: "Alerts"
+  name: Alerts
 - id: performance
-  name: "Performance"
+  name: Performance
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: ssl
-  name: "SSL"
+  name: SSL
 - id: domain-monitoring
-  name: "Domain Monitoring"
+  name: Domain Monitoring
 - id: distributed-monitoring
-  name: "Distributed Monitoring"
+  name: Distributed Monitoring
 - id: on-call
-  name: "On-Call"
+  name: On Call
 - id: health-checks
-  name: "Health Checks"
+  name: Health Checks
 - id: docker
-  name: "Docker"
+  name: Docker
 - id: infrastructure
-  name: "Infrastructure"
+  name: Infrastructure
 - id: server-monitoring
-  name: "Server Monitoring"
+  name: Server Monitoring
 - id: cloud
-  name: "Cloud"
+  name: Cloud
 - id: apm
-  name: "APM"
+  name: APM
 - id: incident-communication
-  name: "Incident Communication"
+  name: Incident Communication
 - id: atlassian
-  name: "Atlassian"
+  name: Atlassian
 - id: php
-  name: "PHP"
+  name: PHP
 - id: mit
-  name: "MIT"
+  name: MIT
 - id: http-monitoring
-  name: "HTTP Monitoring"
+  name: HTTP Monitoring
 - id: observability
-  name: "Observability"
+  name: Observability
 - id: logs
-  name: "Logs"
+  name: Logs
 - id: transaction-monitoring
-  name: "Transaction Monitoring"
+  name: Transaction Monitoring
 - id: load-testing
-  name: "Load Testing"
+  name: Load Testing
 - id: real-time
-  name: "Real-Time"
+  name: Real-Time
 - id: metrics
-  name: "Metrics"
+  name: Metrics
 - id: network-monitoring
-  name: "Network Monitoring"
+  name: Network Monitoring
+- id: accessibility
+  name: Accessibility
+- id: web-monitoring
+  name: Web Monitoring
+- id: ai-powered
+  name: AI Powered
+- id: monitoring
+  name: Monitoring
+- id: server-security
+  name: Server Security
+- id: uptime-monitoring
+  name: Uptime Monitoring
+- id: on-call-alerting
+  name: On Call Alerting
+- id: sms
+  name: SMS
+- id: phone-calls
+  name: Phone Calls
+- id: webhooks
+  name: Webhooks
+- id: debugging
+  name: Debugging
+- id: aggregator
+  name: Aggregator
+- id: cicd
+  name: CI/CD
+- id: free-tier
+  name: Free Tier
+- id: aws
+  name: AWS
+- id: mocking
+  name: Mocking
+- id: web-scraping
+  name: Web Scraping
+- id: siem
+  name: Siem
+- id: log-management
+  name: Log Management
+- id: snmp
+  name: SNMP
+- id: rrdtool
+  name: RRDtool
+- id: network
+  name: Network
+- id: ssl-monitoring
+  name: Ssl Monitoring
+- id: certificates
+  name: Certificates
+- id: daemon
+  name: Daemon
+- id: core-web-vitals
+  name: Core Web Vitals
+- id: cron-monitoring
+  name: Cron Monitoring
+- id: heartbeat-monitoring
+  name: Heartbeat Monitoring
+- id: laravel
+  name: Laravel
+- id: rails-apm
+  name: Rails APM
+- id: user-reports
+  name: User Reports
+- id: slack-alerts
+  name: Slack Alerts
+- id: cloud-cost
+  name: Cloud Cost
+- id: gcp
+  name: GCP
+- id: linux-monitoring
+  name: Linux Monitoring
+- id: freshworks
+  name: Freshworks
+- id: hosted
+  name: Hosted
+- id: web-change-monitoring
+  name: Web Change Monitoring
+- id: price-monitoring
+  name: Price Monitoring
+- id: distributed
+  name: Distributed
+- id: bsd
+  name: BSD
+- id: hpc
+  name: HPC
+- id: rum
+  name: RUM
+- id: analytics
+  name: Analytics
+- id: free
+  name: Free
+- id: performance-monitoring
+  name: Performance Monitoring
+- id: pagespeed
+  name: PageSpeed
+- id: yslow
+  name: YSlow
+- id: blacklist-monitoring
+  name: Blacklist Monitoring
+- id: multi-region-monitoring
+  name: Multi Region Monitoring
+- id: ibm-cloud
+  name: IBM Cloud
+- id: nagios-fork
+  name: Nagios Fork
+- id: saas
+  name: Saas
+- id: real-time-monitoring
+  name: Real Time Monitoring
+- id: commercial
+  name: Commercial
+- id: limited-free
+  name: Limited Free
+- id: network-mapping
+  name: Network Mapping
+- id: status-api
+  name: Status API
+- id: kubernetes
+  name: Kubernetes
+- id: dead-mans-switch
+  name: Dead Man's Switch
+- id: ai-agents
+  name: AI Agents
+- id: broken-link-checker
+  name: Broken Link Checker
+- id: api-testing
+  name: API Testing
+- id: session-replay
+  name: Session Replay
+- id: frontend
+  name: Frontend
+- id: synthetic-monitoring
+  name: Synthetic Monitoring
+- id: opentelemetry
+  name: OpenTelemetry
+- id: perl
+  name: Perl
+- id: postgresql
+  name: PostgreSQL
+- id: sms-notifications
+  name: SMS Notifications
+- id: multi-database
+  name: Multi Database
+- id: log-monitoring
+  name: Log Monitoring
+- id: eu-hosted
+  name: Eu Hosted
+- id: great-firewall
+  name: Great Firewall
+- id: dns-monitoring
+  name: DNS Monitoring
+- id: china
+  name: China
+- id: java
+  name: Java
+- id: agplv3
+  name: AGPLv3
+- id: oracle-cloud
+  name: Oracle Cloud
+- id: windows
+  name: Windows
+- id: small-teams
+  name: Small Teams
+- id: change-monitoring
+  name: Change Monitoring
+- id: pagerduty
+  name: Pagerduty
+- id: gplv2
+  name: GPLv2
+- id: gpl
+  name: GPL
+- id: lgpl
+  name: LGPL
+- id: discord-alerts
+  name: Discord Alerts
+- id: tcp-monitoring
+  name: TCP Monitoring
+- id: quorum-based
+  name: Quorum Based
+- id: scheduled
+  name: Scheduled
+- id: ai-services
+  name: AI Services
+- id: cli
+  name: CLI
+- id: terraform
+  name: Terraform
+- id: mcp
+  name: MCP
+- id: prometheus
+  name: Prometheus
+- id: response-platform
+  name: Response Platform
+- id: aiops
+  name: AIOps
+- id: python
+  name: Python
+- id: error-tracking
+  name: Error Tracking
+- id: network-performance
+  name: Network Performance
+- id: ibm
+  name: IBM
+- id: rails
+  name: Rails
+- id: it-management
+  name: IT Management
+- id: rss
+  name: Rss
+- id: sre
+  name: Sre
+- id: ssl-analysis
+  name: SSL Analysis
+- id: automation
+  name: Automation
+- id: debug-tools
+  name: Debug Tools
+- id: indie-developers
+  name: Indie Developers
+- id: aggregation
+  name: Aggregation
+- id: upstream-monitoring
+  name: Upstream Monitoring
+- id: incident-monitoring
+  name: Incident Monitoring
+- id: cloudflare
+  name: Cloudflare
+- id: dns
+  name: DNS
+- id: webhook
+  name: Webhook
+- id: testing
+  name: Testing
+- id: network-tools
+  name: Network Tools
+- id: hobbit
+  name: Hobbit
