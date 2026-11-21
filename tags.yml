@@ -1,0 +1,88 @@
+- id: uptime
+  name: "Uptime"
+- id: website-monitoring
+  name: "Website Monitoring"
+- id: free-plan
+  name: "Free Plan"
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: incident-management
+  name: "Incident Management"
+- id: status-pages
+  name: "Status Pages"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: dashboard
+  name: "Dashboard"
+- id: notifications
+  name: "Notifications"
+- id: synthetic
+  name: "Synthetic"
+- id: api-monitoring
+  name: "API Monitoring"
+- id: playwright
+  name: "Playwright"
+- id: ci-cd
+  name: "CI/CD"
+- id: cron
+  name: "Cron"
+- id: heartbeat
+  name: "Heartbeat"
+- id: background-jobs
+  name: "Background Jobs"
+- id: alerts
+  name: "Alerts"
+- id: performance
+  name: "Performance"
+- id: enterprise
+  name: "Enterprise"
+- id: paid
+  name: "Paid"
+- id: ssl
+  name: "SSL"
+- id: domain-monitoring
+  name: "Domain Monitoring"
+- id: distributed-monitoring
+  name: "Distributed Monitoring"
+- id: on-call
+  name: "On-Call"
+- id: health-checks
+  name: "Health Checks"
+- id: docker
+  name: "Docker"
+- id: infrastructure
+  name: "Infrastructure"
+- id: server-monitoring
+  name: "Server Monitoring"
+- id: cloud
+  name: "Cloud"
+- id: apm
+  name: "APM"
+- id: incident-communication
+  name: "Incident Communication"
+- id: atlassian
+  name: "Atlassian"
+- id: php
+  name: "PHP"
+- id: mit
+  name: "MIT"
+- id: http-monitoring
+  name: "HTTP Monitoring"
+- id: observability
+  name: "Observability"
+- id: logs
+  name: "Logs"
+- id: transaction-monitoring
+  name: "Transaction Monitoring"
+- id: load-testing
+  name: "Load Testing"
+- id: real-time
+  name: "Real-Time"
+- id: metrics
+  name: "Metrics"
+- id: network-monitoring
+  name: "Network Monitoring"

@@ -1,0 +1,13 @@
+name: "Sematext"
+description: "Full-stack observability platform with synthetic and API monitoring features. Tracks uptime, performance, and logs across cloud and on-premises environments. Freemium with paid plans based on data volume and hosts."
+source_url: "https://sematext.com/"
+category: "Synthetic & API Monitoring"
+tags:
+  - "synthetic"
+  - "api-monitoring"
+  - "observability"
+  - "logs"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/sematext.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://sematext.com/>\n"
+updated_at: "2026-11-21 01:01"

@@ -1,0 +1,13 @@
+name: "Checkly"
+description: "Synthetic monitoring and API observability platform for developers. Allows scripting browser and API checks in JavaScript/TypeScript and integrates with CI/CD pipelines. Freemium with paid tiers based on check volume and retention."
+source_url: "https://checklyhq.com/"
+category: "Synthetic & API Monitoring"
+tags:
+  - "synthetic"
+  - "api-monitoring"
+  - "playwright"
+  - "ci-cd"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/checklyhq.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://checklyhq.com/>\n"
+updated_at: "2026-11-21 01:01"

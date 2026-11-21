@@ -1,0 +1,13 @@
+name: "OpenStatus"
+description: "Open-source synthetic monitoring and status page platform. Tracks uptime and API performance from multiple locations with self-hosting support. Provides alerting and public status pages for teams."
+source_url: "https://openstatus.dev/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "synthetic"
+  - "status-pages"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/openstatus.dev.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://openstatus.dev/>\n- Repository: <https://github.com/openstatushq/openstatus>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:01"

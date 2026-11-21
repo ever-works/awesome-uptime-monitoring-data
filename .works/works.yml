@@ -1,0 +1,31 @@
+company_name: "Awesome Uptime Monitoring"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome Uptime Monitoring"
+initial_prompt: "A curated directory of uptime, cron/heartbeat, synthetic and website monitoring services and tools. Include products such as UptimeRobot, Better Stack, Uptime Kuma, Checkly, Cronitor, Healthchecks.io, Pingdom, StatusCake, Hyperping, OneUptime, Gatus, OpenStatus, plus other notable commercial and open-source options. Categories: Uptime & Website Monitoring, Cron & Heartbeat Monitoring, Synthetic & API Monitoring, Status Pages, Open-Source & Self-Hosted, SSL & Domain Monitoring. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-uptime-monitoring-website"
+company_website: "https://uptime-monitoring.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0

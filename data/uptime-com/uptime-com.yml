@@ -1,0 +1,13 @@
+name: "Uptime.com"
+description: "Website and server monitoring service with global checkpoints and SSL certificate monitoring. Provides uptime reports, root cause analysis, and alerting via multiple channels. Paid service with a free trial."
+source_url: "https://uptime.com/"
+category: "Uptime & Website Monitoring"
+tags:
+  - "uptime"
+  - "ssl"
+  - "server-monitoring"
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/uptime.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://uptime.com/>\n"
+updated_at: "2026-11-21 01:01"

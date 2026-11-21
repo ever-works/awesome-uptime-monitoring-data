@@ -1,0 +1,13 @@
+name: "UptimeRobot"
+description: "Monitors websites, APIs, and services via HTTP, ping, port, and keyword checks. Offers alerting through email, SMS, Slack, and many other channels. Freemium model with a generous free tier and paid plans for higher frequency and more monitors."
+source_url: "https://uptimerobot.com/"
+category: "Uptime & Website Monitoring"
+tags:
+  - "uptime"
+  - "website-monitoring"
+  - "free-plan"
+  - "freemium"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/uptimerobot.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://uptimerobot.com/>\n"
+updated_at: "2026-11-21 01:01"

@@ -1,0 +1,12 @@
+- id: uptime-and-website-monitoring
+  name: "Uptime & Website Monitoring"
+- id: cron-and-heartbeat-monitoring
+  name: "Cron & Heartbeat Monitoring"
+- id: synthetic-and-api-monitoring
+  name: "Synthetic & API Monitoring"
+- id: status-pages
+  name: "Status Pages"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: ssl-and-domain-monitoring
+  name: "SSL & Domain Monitoring"

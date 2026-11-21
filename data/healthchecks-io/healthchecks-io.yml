@@ -1,0 +1,13 @@
+name: "Healthchecks.io"
+description: "Cron and heartbeat monitoring service that listens for pings from scheduled tasks. Sends alerts via email, SMS, Slack, and other integrations when a ping is missed. Offers both hosted and self-hosted open-source options."
+source_url: "https://healthchecks.io/"
+category: "Cron & Heartbeat Monitoring"
+tags:
+  - "cron"
+  - "heartbeat"
+  - "self-hosted"
+  - "free-plan"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/healthchecks.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://healthchecks.io/>\n"
+updated_at: "2026-11-21 01:01"

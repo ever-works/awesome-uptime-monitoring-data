@@ -1,0 +1,13 @@
+name: "OneUptime"
+description: "All-in-one monitoring platform offering uptime checks, incident management, and status pages. Includes on-call scheduling and alerting for DevOps and SRE teams. Freemium with self-hosted and cloud options."
+source_url: "https://oneuptime.com/"
+category: "Uptime & Website Monitoring"
+tags:
+  - "uptime"
+  - "incident-management"
+  - "status-pages"
+  - "on-call"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/oneuptime.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://oneuptime.com/>\n"
+updated_at: "2026-11-21 01:01"

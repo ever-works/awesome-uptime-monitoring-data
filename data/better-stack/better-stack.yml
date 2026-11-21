@@ -1,0 +1,13 @@
+name: "Better Stack"
+description: "Provides uptime monitoring, incident management, and status pages for engineering teams. Combines synthetic monitoring with log observability and on-call scheduling. Paid plans with a free tier for small teams."
+source_url: "https://betterstack.com/"
+category: "Uptime & Website Monitoring"
+tags:
+  - "uptime"
+  - "incident-management"
+  - "status-pages"
+  - "freemium"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/betterstack.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://betterstack.com/>\n"
+updated_at: "2026-11-21 01:01"

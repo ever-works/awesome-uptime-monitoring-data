@@ -1,0 +1,13 @@
+name: "Cachet"
+description: "Open-source status page system written in PHP and Laravel. Allows organizations to self-host public status pages and track incidents. Free to use and modify under the MIT license."
+source_url: "https://cachethq.io/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "status-pages"
+  - "php"
+  - "mit"
+icon_url: "https://icons.duckduckgo.com/ip3/cachethq.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://cachethq.io/>\n- Repository: <https://github.com/cachethq/Cachet>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:01"

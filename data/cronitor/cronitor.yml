@@ -1,0 +1,13 @@
+name: "Cronitor"
+description: "Monitors cron jobs, background tasks, and heartbeats by tracking ping-based signals. Alerts when jobs fail to start, run too long, or stop sending heartbeats. Freemium with paid plans for teams and advanced alerting."
+source_url: "https://cronitor.io/"
+category: "Cron & Heartbeat Monitoring"
+tags:
+  - "cron"
+  - "heartbeat"
+  - "background-jobs"
+  - "alerts"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/cronitor.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://cronitor.io/>\n"
+updated_at: "2026-11-21 01:01"

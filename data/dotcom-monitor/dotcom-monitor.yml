@@ -1,0 +1,13 @@
+name: "Dotcom-Monitor"
+description: "Synthetic monitoring platform for websites, web applications, and APIs. Offers load testing, performance monitoring, and multi-step transaction checks from global locations. Paid enterprise service."
+source_url: "https://www.dotcom-monitor.com/"
+category: "Synthetic & API Monitoring"
+tags:
+  - "synthetic"
+  - "api-monitoring"
+  - "load-testing"
+  - "enterprise"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.dotcom-monitor.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.dotcom-monitor.com/>\n"
+updated_at: "2026-11-21 01:01"

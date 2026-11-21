@@ -1,0 +1,13 @@
+name: "Cron-job.org"
+description: "Free cron job and HTTP endpoint monitoring service with scheduling and logging. Sends notifications via email, Telegram, or webhook when jobs fail. Offers a free tier and paid plans for more frequent execution."
+source_url: "https://cron-job.org/"
+category: "Cron & Heartbeat Monitoring"
+tags:
+  - "cron"
+  - "heartbeat"
+  - "http-monitoring"
+  - "free-plan"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/cron-job.org.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://cron-job.org/>\n"
+updated_at: "2026-11-21 01:01"

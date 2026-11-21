@@ -1,0 +1,13 @@
+name: "StatusCake"
+description: "Uptime and SSL/domain monitoring service with global testing locations. Tracks website availability, server performance, and certificate expiration. Offers free and paid plans with status page and alerting features."
+source_url: "https://www.statuscake.com/"
+category: "SSL & Domain Monitoring"
+tags:
+  - "ssl"
+  - "domain-monitoring"
+  - "uptime"
+  - "free-plan"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/www.statuscake.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.statuscake.com/>\n"
+updated_at: "2026-11-21 01:01"

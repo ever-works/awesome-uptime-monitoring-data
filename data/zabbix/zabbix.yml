@@ -1,0 +1,13 @@
+name: "Zabbix"
+description: "Enterprise-grade open-source monitoring solution for networks, servers, virtual machines, and cloud services. Supports agent-based and agentless monitoring with flexible alerting and visualization. Free to self-host under GPL."
+source_url: "https://www.zabbix.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "infrastructure"
+  - "network-monitoring"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zabbix.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.zabbix.com/>\n- Repository: <https://github.com/zabbix/zabbix>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 01:01"

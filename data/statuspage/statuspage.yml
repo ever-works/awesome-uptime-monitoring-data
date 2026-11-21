@@ -1,0 +1,13 @@
+name: "Statuspage"
+description: "Atlassian-hosted status page service for communicating incidents and maintenance to customers. Integrates with monitoring tools to automate status updates. Paid service with tiered plans based on subscribers and pages."
+source_url: "https://www.statuspage.io/"
+category: "Status Pages"
+tags:
+  - "status-pages"
+  - "incident-communication"
+  - "atlassian"
+  - "paid"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/www.statuspage.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.statuspage.io/>\n"
+updated_at: "2026-11-21 01:01"

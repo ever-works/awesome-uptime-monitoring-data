@@ -1,0 +1,13 @@
+name: "Netdata"
+description: "Open-source real-time monitoring agent for systems, containers, and applications. Collects per-second metrics and visualizes them on a local dashboard. Self-hosted with optional cloud streaming."
+source_url: "https://www.netdata.cloud/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "real-time"
+  - "metrics"
+  - "infrastructure"
+icon_url: "https://icons.duckduckgo.com/ip3/www.netdata.cloud.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.netdata.cloud/>\n- Repository: <https://github.com/netdata/netdata>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 01:01"
