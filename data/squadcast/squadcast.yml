@@ -1,0 +1,30 @@
+name: Squadcast
+description: On-Call & SRE platform with StatusPages built-in.
+source_url: https://www.squadcast.com
+category: Status Pages
+tags:
+  - on-call
+  - sre
+  - status-pages
+  - incident-management
+featured: false
+markdown: |-
+  ## Overview
+
+  Squadcast is an On-Call & SRE platform with StatusPages built-in.
+
+  ## Features
+
+  - On-call management
+  - SRE platform
+  - Status pages
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://www.squadcast.com
+brand: Squadcast
+updated_at: 2026-11-21 08:30

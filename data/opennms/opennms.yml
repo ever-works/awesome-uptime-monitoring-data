@@ -1,0 +1,63 @@
+name: OpenNMS
+description: OpenNMS is an open-source enterprise network monitoring and
+  management platform written in Java. It supports JRobin/RRDTool, Apache
+  Cassandra, and PostgreSQL backends, offers auto-discovery, SNMP, syslog,
+  plugins, trending, trend prediction, triggers, a full-control web app,
+  distributed monitoring, and inventory under the AGPLv3 license.
+source_url: https://www.opennms.org
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - enterprise
+  - Java
+  - AGPLv3
+markdown: >-
+  ## Overview
+
+
+  OpenNMS is an open-source enterprise-grade network monitoring and management
+  platform. It is written in Java and provides fault management, performance
+  monitoring, and event management for networks and IT infrastructure.
+
+
+  ## Features
+
+
+  - Auto-discovery of hosts and network devices
+
+  - Agentless monitoring
+
+  - SNMP, Syslog, and plugin support
+
+  - Trending and trend prediction
+
+  - Threshold triggers and alerts
+
+  - MIB compiler
+
+  - Full-control web application
+
+  - Distributed monitoring and inventory
+
+  - Access control and IPv6 support
+
+  - Network maps
+
+  - JRobin / RRDTool / Apache Cassandra, PostgreSQL data storage
+
+
+  ## License
+
+
+  Released under the Affero General Public License v3 (AGPLv3).
+
+
+  ## Repository
+
+
+  https://github.com/OpenNMS/opennms
+brand: OpenNMS Group
+brand_logo_url: https://www.opennms.org/images/opennms-logo.svg
+images:
+  - https://www.opennms.org/images/opennms-logo.svg
+updated_at: 2026-11-21 08:30

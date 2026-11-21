@@ -1,0 +1,37 @@
+name: whatbroke.today
+description: AI-powered outage aggregator that monitors 100+ cloud services and
+  sends alerts when they go down. Monitors AWS, Vercel, Stripe, GitHub,
+  Cloudflare, and 100+ services with AI-generated incident summaries and
+  real-time Telegram alerts. Free to use.
+source_url: https://whatbroke.today
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - AI-Powered
+  - API
+markdown: >-
+  ## Overview
+
+
+  whatbroke.today is an AI-powered outage aggregator that monitors 100+ cloud
+  services and sends alerts when they go down.
+
+
+  ## Key Features
+
+
+  - Monitors AWS, Vercel, Stripe, GitHub, Cloudflare, and 100+ services
+
+  - AI-generated incident summaries
+
+  - Real-time Telegram alerts (@whatbroketoday)
+
+  - RSS feed for DevOps workflows
+
+
+  ## Pricing
+
+
+  Free to use.
+brand: whatbroke.today
+updated_at: 2026-11-21 08:30

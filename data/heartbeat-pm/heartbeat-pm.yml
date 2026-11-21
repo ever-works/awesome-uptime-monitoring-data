@@ -1,0 +1,43 @@
+name: HeartBeat.pm
+description: Uptime monitoring (http,tcp,udp,ssl) with flexible alerting rules,
+  heartbeats, status page.
+source_url: https://heartbeat.pm
+category: Cron & Heartbeat Monitoring
+tags:
+  - uptime-monitoring
+  - heartbeat
+  - status-pages
+  - ssl
+featured: false
+markdown: >-
+  ## Overview
+
+
+  HeartBeat.pm provides uptime monitoring with flexible alerting rules,
+  heartbeats, and status page.
+
+
+  ## Features
+
+
+  - HTTP, TCP, UDP, SSL monitoring
+
+  - Flexible alerting rules
+
+  - Heartbeats
+
+  - Status page
+
+
+  ## Pricing
+
+
+  Commercial (paid).
+
+
+  ## Website
+
+
+  https://heartbeat.pm
+brand: HeartBeat.pm
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,39 @@
+name: OntarioNet.ca CN Test
+description: Check if a website is blocked in China by the Great Firewall. It
+  identifies DNS pollution by comparing DNS results and ASN information detected
+  by servers in China versus servers in the United States.
+source_url: https://ontario.net.cn/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Great Firewall
+  - DNS monitoring
+  - China
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OntarioNet.ca CN Test checks if a website is blocked in China by the Great
+  Firewall.
+
+
+  ## Features
+
+
+  - Great Firewall blocking check
+
+  - DNS pollution identification
+
+  - Compares DNS results from China vs US servers
+
+  - ASN information detection
+
+
+  ## Pricing
+
+
+  Free.
+brand: OntarioNet.ca
+images: []
+updated_at: 2026-11-21 08:30

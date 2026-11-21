@@ -1,0 +1,54 @@
+name: collectd
+description: collectd is an open-source daemon that collects system and
+  application performance statistics and writes them to RRD files. It uses a
+  push model with optional multicast, supports SNMP, syslog, plugins, and
+  triggers, and is released under the GNU GPL license.
+source_url: https://collectd.org
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - daemon
+  - RRDtool
+markdown: >-
+  ## Overview
+
+
+  collectd is an open-source Unix daemon that collects, transfers, and stores
+  performance data from computers and network devices.
+
+
+  ## Features
+
+
+  - Push model with optional multicast
+
+  - SNMP and syslog support
+
+  - Plugin-based architecture
+
+  - Triggers and alerts
+
+  - Web-based viewing frontend
+
+  - RRDtool data storage
+
+  - Apache access control
+
+  - IPv6 support
+
+
+  ## License
+
+
+  Released under the GNU General Public License (GPL).
+
+
+  ## Repository
+
+
+  https://github.com/collectd/collectd
+brand: collectd
+brand_logo_url: https://collectd.org/images/collectd-logo.png
+images:
+  - https://collectd.org/images/collectd-logo.png
+updated_at: 2026-11-21 08:30

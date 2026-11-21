@@ -1,0 +1,27 @@
+name: Skylight
+description: Free for first 100,000 requests (Rails only). A performance
+  monitoring tool for Rails applications.
+source_url: https://skylight.io/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Rails
+  - APM
+featured: false
+markdown: |-
+  ## Overview
+
+  Skylight is a performance monitoring tool for Rails applications.
+
+  ## Features
+
+  - Rails application monitoring
+  - Performance monitoring
+  - Request tracking
+
+  ## Pricing
+
+  Free for first 100,000 requests (Rails only).
+brand: Skylight
+images: []
+updated_at: 2026-11-21 08:30

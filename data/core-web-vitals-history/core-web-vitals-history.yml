@@ -1,0 +1,33 @@
+name: Core Web Vitals History
+description: Find Core Web Vitals history for a URL or a website. A tool for
+  tracking web performance metrics over time.
+source_url: https://web.dev/vitals/
+category: Uptime & Website Monitoring
+tags:
+  - Core Web Vitals
+  - Performance
+  - Web monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Core Web Vitals History is a tool for finding Core Web Vitals history for a
+  URL or website.
+
+
+  ## Features
+
+
+  - Core Web Vitals history lookup
+
+  - URL and website performance tracking
+
+
+  ## Pricing
+
+
+  Free.
+brand: Google
+images: []
+updated_at: 2026-11-21 08:30

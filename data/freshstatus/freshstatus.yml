@@ -1,0 +1,27 @@
+name: FreshStatus
+description: Hosted status page service from Freshworks.
+source_url: https://www.freshworks.com/statuspage/
+category: Status Pages
+tags:
+  - status-pages
+  - freshworks
+  - hosted
+featured: false
+markdown: |-
+  ## Overview
+
+  FreshStatus is a hosted status page service from Freshworks.
+
+  ## Features
+
+  - Hosted status pages
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://www.freshworks.com/statuspage/
+brand: Freshworks
+updated_at: 2026-11-21 08:30

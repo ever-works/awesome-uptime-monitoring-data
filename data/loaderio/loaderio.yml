@@ -1,0 +1,27 @@
+name: loader.io
+description: Free load testing tools with limitations. A load testing service
+  for testing website and API performance under load.
+source_url: https://loader.io/
+category: Synthetic & API Monitoring
+tags:
+  - Free Plan
+  - Load testing
+  - API testing
+featured: false
+markdown: |-
+  ## Overview
+
+  loader.io provides free load testing tools with limitations.
+
+  ## Features
+
+  - Load testing
+  - Website performance testing
+  - API load testing
+
+  ## Pricing
+
+  Free with limitations.
+brand: loader.io
+images: []
+updated_at: 2026-11-21 08:30

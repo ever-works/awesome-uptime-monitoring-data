@@ -1,0 +1,23 @@
+name: Grafana
+description: Synthetic monitoring built into Grafana Cloud with multi-protocol
+  checks (HTTP, ping, DNS, TCP). Features global probe network, seamless Grafana
+  integration, and open-source backend.
+source_url: https://grafana.com
+category: Synthetic & API Monitoring
+tags:
+  - Synthetic
+  - API
+  - Cloud
+markdown: |-
+  ## Overview
+
+  Grafana Synthetic Monitoring is synthetic monitoring built into Grafana Cloud.
+
+  ## Key Features
+
+  - Multi-protocol checks (HTTP, ping, DNS, TCP)
+  - Global probe network
+  - Seamless Grafana integration
+  - Open-source backend
+brand: Grafana
+updated_at: 2026-11-21 08:30

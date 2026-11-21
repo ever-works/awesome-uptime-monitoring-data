@@ -1,0 +1,40 @@
+name: Incident.io
+description: Incident management, on-call alerting, and public, customer, and
+  private status pages.
+source_url: https://incident.io
+category: Status Pages
+tags:
+  - incident-management
+  - on-call
+  - status-pages
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Incident.io provides incident management, on-call alerting, and public,
+  customer, and private status pages.
+
+
+  ## Features
+
+
+  - Incident management
+
+  - On-call alerting
+
+  - Public, customer, and private status pages
+
+
+  ## Pricing
+
+
+  Commercial (paid).
+
+
+  ## Website
+
+
+  https://incident.io
+brand: Incident.io
+updated_at: 2026-11-21 08:30

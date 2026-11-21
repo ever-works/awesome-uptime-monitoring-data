@@ -1,0 +1,44 @@
+name: AcumenLogs
+description: First class uptime and synthetic monitoring service offering API
+  monitoring, WHOIS & SSL monitoring, global uptime monitoring, and status
+  pages. Provides synthetic monitoring using real Chrome with AI prompt-based
+  journey generation, Lighthouse monitoring, and video recording.
+source_url: https://www.acumenlogs.com
+category: Uptime & Website Monitoring
+tags:
+  - API
+  - SSL
+  - Status Pages
+markdown: >-
+  ## Overview
+
+
+  AcumenLogs is a first class uptime and synthetic monitoring service focusing
+  on value over price.
+
+
+  ## Key Features
+
+
+  ### Uptime Monitoring
+
+  - API monitoring
+
+  - WHOIS & SSL monitoring
+
+  - Global uptime monitoring
+
+  - Status pages
+
+
+  ### Synthetic Monitoring
+
+  - Synthetic monitoring using real Chrome
+
+  - AI prompt based Synthetic journey generation
+
+  - Lighthouse monitoring
+
+  - Video recording
+brand: AcumenLogs
+updated_at: 2026-11-21 08:30

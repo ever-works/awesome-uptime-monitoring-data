@@ -1,0 +1,22 @@
+name: Runscope
+description: API performance monitoring and testing service. Offers multi-step
+  API tests, global testing regions, traffic inspector, and scheduled monitors.
+source_url: https://runscope.com
+category: Synthetic & API Monitoring
+tags:
+  - API
+  - Performance
+  - Scheduled
+markdown: |-
+  ## Overview
+
+  RunScope is API performance monitoring and testing.
+
+  ## Key Features
+
+  - Multi-step API tests
+  - Global testing regions
+  - Traffic inspector
+  - Scheduled monitors
+brand: Runscope
+updated_at: 2026-11-21 08:30

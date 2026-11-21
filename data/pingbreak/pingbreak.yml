@@ -1,0 +1,27 @@
+name: Pingbreak
+description: Modern uptime monitoring service. Check unlimited URLs and get
+  downtime notifications via Discord, Slack, or email.
+source_url: https://pingbreak.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Uptime monitoring
+  - Discord alerts
+  - Slack alerts
+featured: false
+markdown: |-
+  ## Overview
+
+  Pingbreak is a modern uptime monitoring service.
+
+  ## Features
+
+  - Unlimited URL checks
+  - Downtime notifications via Discord, Slack, or email
+
+  ## Pricing
+
+  Free.
+brand: Pingbreak
+images: []
+updated_at: 2026-11-21 08:30

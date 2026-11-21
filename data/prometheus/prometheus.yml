@@ -1,0 +1,42 @@
+name: Prometheus
+description: Industry-standard open-source monitoring stack for metrics and
+  uptime checks. Time-series metrics database with PromQL query language,
+  Alertmanager integration, and high scalability. Licensed under Apache 2.0.
+source_url: https://prometheus.io
+category: Open-Source & Self-Hosted
+tags:
+  - Open Source
+  - Self-Hosted
+  - Metrics
+markdown: >-
+  ## Overview
+
+
+  Prometheus + Blackbox Exporter is an industry-standard monitoring stack for
+  metrics and uptime checks.
+
+
+  ## Key Features
+
+
+  - Time-series metrics database
+
+  - Powerful query language (PromQL)
+
+  - Alertmanager integration
+
+  - Highly scalable
+
+
+  ## License
+
+
+  Apache 2.0
+
+
+  ## Repository
+
+
+  https://github.com/prometheus/prometheus
+brand: Prometheus
+updated_at: 2026-11-21 08:30

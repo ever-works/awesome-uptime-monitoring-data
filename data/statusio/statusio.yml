@@ -1,0 +1,21 @@
+name: Status.io
+description: Status page service.
+source_url: https://status.io
+category: Status Pages
+tags:
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  Status.io is a status page service.
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://status.io
+brand: Status.io
+updated_at: 2026-11-21 08:30

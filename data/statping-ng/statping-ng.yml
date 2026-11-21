@@ -1,0 +1,31 @@
+name: Statping-ng
+description: Fork of Statping with active maintenance and modern features.
+  Self-hosted status page tool with beautiful status pages, multiple database
+  support, mobile app, and metrics and graphs.
+source_url: https://github.com/statping-ng/statping-ng
+category: Open-Source & Self-Hosted
+tags:
+  - Open Source
+  - Self-Hosted
+  - Status Pages
+markdown: |-
+  ## Overview
+
+  Statping-ng is a fork of Statping with active maintenance and modern features.
+
+  ## Key Features
+
+  - Beautiful status pages
+  - Multiple databases supported
+  - Mobile app
+  - Metrics and graphs
+
+  ## License
+
+  Open source
+
+  ## Repository
+
+  https://github.com/statping-ng/statping-ng
+brand: Statping-ng
+updated_at: 2026-11-21 08:30

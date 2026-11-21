@@ -1,0 +1,40 @@
+name: health-monitor-rails
+description: A Rails plugin which provides a health checking and monitoring API
+  of various services and application aspects.
+source_url: https://github.com/lbeder/health-monitor-rails
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - health-checks
+featured: false
+markdown: >-
+  ## Overview
+
+
+  health-monitor-rails is a Rails plugin providing health checking and
+  monitoring APIs.
+
+
+  ## Features
+
+
+  - Health checking API
+
+  - Monitoring of various services and application aspects
+
+  - Rails plugin
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Repository
+
+
+  https://github.com/lbeder/health-monitor-rails
+brand: lbeder
+updated_at: 2026-11-21 08:30

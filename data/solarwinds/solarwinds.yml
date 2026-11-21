@@ -1,0 +1,53 @@
+name: SolarWinds
+description: SolarWinds is a commercial IT management and network monitoring
+  platform written in .NET. It uses SQL for data storage, offers auto-discovery,
+  SNMP, syslog, plugins, trending, trend prediction, triggers, a full-control
+  web app, distributed monitoring, and inventory under a commercial license.
+source_url: https://www.solarwinds.com
+category: Open-Source & Self-Hosted
+tags:
+  - commercial
+  - network-monitoring
+  - IT-management
+markdown: >-
+  ## Overview
+
+
+  SolarWinds is a commercial IT management software company that provides
+  network monitoring, IT infrastructure management, and observability tools. Its
+  platform is written in .NET and uses SQL data storage.
+
+
+  ## Features
+
+
+  - Auto-discovery of hosts and network devices
+
+  - Partial agentless monitoring
+
+  - SNMP, Syslog, and plugin support
+
+  - Trending and trend prediction
+
+  - Threshold triggers and alerts
+
+  - Full-control web application
+
+  - Distributed monitoring and inventory
+
+  - Access control and IPv6 support
+
+  - Network maps
+
+  - SQL data storage
+
+
+  ## Pricing
+
+
+  Commercial licensing.
+brand: SolarWinds
+brand_logo_url: https://www.solarwinds.com/content/dam/solarwinds/swisvg/logo.svg
+images:
+  - https://www.solarwinds.com/content/dam/solarwinds/swisvg/logo.svg
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,30 @@
+name: ClearStatus
+description: Hugo-based status page that supports Netlify. Supports events from
+  GitHub, GitLab or any git repo with markdown.
+source_url: https://github.com/weeblrpress/clearstatus/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  ClearStatus is a Hugo-based status page that supports Netlify deployment.
+
+  ## Features
+
+  - Hugo-based static site generation
+  - Netlify support
+  - Supports events from GitHub, GitLab or any git repo with markdown
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/weeblrpress/clearstatus/
+brand: weeblrpress
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,43 @@
+name: PingWise
+description: Quorum-based uptime monitoring, using 15 probes in 6 different
+  continents. Pricing is credit based, offering 650,000 free checks per month
+  (translates to 75 free monitors at 5-minute checks). No credit card, unlimited
+  users.
+source_url: https://pingwise.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Multi-region monitoring
+  - Quorum-based
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PingWise is a quorum-based uptime monitoring service using 15 probes in 6
+  different continents.
+
+
+  ## Features
+
+
+  - Quorum-based monitoring
+
+  - 15 probes in 6 different continents
+
+  - Credit-based pricing
+
+  - 650,000 free checks per month (75 free monitors at 5-minute checks)
+
+  - No credit card required
+
+  - Unlimited users
+
+
+  ## Pricing
+
+
+  Credit-based pricing with 650,000 free checks per month.
+brand: PingWise
+images: []
+updated_at: 2026-11-21 08:30

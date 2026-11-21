@@ -1,0 +1,43 @@
+name: KubeStellar Console
+description: Multi-cluster Kubernetes management console with built-in cluster
+  health dashboards; provides real-time status monitoring across cloud and edge
+  Kubernetes deployments.
+source_url: https://github.com/kubestellar/console
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - kubernetes
+featured: false
+markdown: >-
+  ## Overview
+
+
+  KubeStellar Console is a multi-cluster Kubernetes management console with
+  built-in cluster health dashboards.
+
+
+  ## Features
+
+
+  - Multi-cluster Kubernetes management
+
+  - Built-in cluster health dashboards
+
+  - Real-time status monitoring
+
+  - Cloud and edge Kubernetes deployments
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Repository
+
+
+  https://github.com/kubestellar/console
+brand: KubeStellar
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,21 @@
+name: StatusKit
+description: Status page service.
+source_url: https://statuskit.com/
+category: Status Pages
+tags:
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  StatusKit is a status page service.
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://statuskit.com/
+brand: StatusKit
+updated_at: 2026-11-21 08:30

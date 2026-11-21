@@ -1,0 +1,28 @@
+name: Pingzo
+description: Free tier offers 1 uptime/API monitor with 15-minute check
+  intervals and instant email alerts. A basic website monitoring service for
+  individuals and small projects.
+source_url: https://pingzo.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Uptime monitoring
+  - API monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  Pingzo is a free uptime and API monitoring service.
+
+  ## Features
+
+  - 1 uptime/API monitor
+  - 15-minute check intervals
+  - Instant email alerts
+
+  ## Pricing
+
+  Free tier available.
+brand: Pingzo
+images: []
+updated_at: 2026-11-21 08:30

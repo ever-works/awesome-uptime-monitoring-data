@@ -1,0 +1,30 @@
+name: Fettle
+description: Open-source, GitHub-powered status page project utilizing GitHub
+  Pages, Actions, and Issues for real-time updates and incident management.
+source_url: https://github.com/mehatab/fettle
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  Fettle is an open-source, GitHub-powered status page project.
+
+  ## Features
+
+  - GitHub Pages, Actions, and Issues integration
+  - Real-time updates
+  - Incident management
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/mehatab/fettle
+brand: mehatab
+updated_at: 2026-11-21 08:30

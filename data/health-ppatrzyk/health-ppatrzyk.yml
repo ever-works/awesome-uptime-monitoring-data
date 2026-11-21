@@ -1,0 +1,31 @@
+name: health
+description: Self-hosted uptime monitoring for apps and cron jobs. Config as
+  code. Single docker image with PostgreSQL dependency. Written in Elixir.
+source_url: https://codeberg.org/ppatrzyk/health
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - uptime-monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  health is a self-hosted uptime monitoring tool for apps and cron jobs.
+
+  ## Features
+
+  - Config as code
+  - Single Docker image
+  - PostgreSQL dependency
+  - Written in Elixir
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://codeberg.org/ppatrzyk/health
+brand: ppatrzyk
+updated_at: 2026-11-21 08:30

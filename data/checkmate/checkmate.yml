@@ -1,0 +1,44 @@
+name: Checkmate
+description: Open-source, self-hosted monitoring tool built with React.js,
+  Node.js, and MongoDB, designed to track server uptime, response times, and
+  incidents in real-time, featuring a modern UI. Supports E-mail, Webhook,
+  Discord and Slack notifications and has a multi-language frontend.
+source_url: https://github.com/bluewave-labs/Checkmate
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Checkmate is an open-source, self-hosted monitoring tool built with React.js,
+  Node.js, and MongoDB.
+
+
+  ## Features
+
+
+  - Track server uptime, response times, and incidents in real-time
+
+  - Modern UI
+
+  - E-mail, Webhook, Discord and Slack notifications
+
+  - Multi-language frontend
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Repository
+
+
+  https://github.com/bluewave-labs/Checkmate
+brand: bluewave-labs
+updated_at: 2026-11-21 08:30

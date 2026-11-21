@@ -1,0 +1,54 @@
+name: SigNoz
+description: Open-source observability platform for cloud-native applications,
+  offering metrics, traces, and logs in a single pane. MIT licensed with 32,691
+  stars on GitHub. Provides comprehensive monitoring and troubleshooting for
+  microservices architectures.
+source_url: https://signoz.io
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - observability
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SigNoz is an open-source observability platform designed for cloud-native
+  applications. It unifies metrics, traces, and logs into a single platform for
+  monitoring and troubleshooting microservices architectures.
+
+
+  ## Features
+
+
+  - OpenTelemetry-native observability platform
+
+  - Metrics, traces, and logs in a single pane
+
+  - Distributed tracing with automatic instrumentation
+
+  - Log management and querying
+
+  - Real-time metrics visualization
+
+  - Dashboards and alerts
+
+  - Self-hosted deployment
+
+
+  ## License
+
+
+  MIT License
+
+
+  ## Repository
+
+
+  https://github.com/SigNoz/signoz
+brand: SigNoz
+brand_logo_url: https://signoz.io/logo.svg
+images:
+  - https://signoz.io/images/signoz-dashboard.png
+updated_at: 2026-11-21 08:30

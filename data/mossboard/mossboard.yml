@@ -1,0 +1,42 @@
+name: MOSSboard
+description: Self-hosted, Docker-based status page that monitors and displays
+  the operational state of your services, built with Python and Vue.js.
+source_url: https://github.com/lanbugs/mossboard
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - status-pages
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MOSSboard is a self-hosted, Docker-based status page that monitors and
+  displays the operational state of services.
+
+
+  ## Features
+
+
+  - Self-hosted
+
+  - Docker-based
+
+  - Built with Python and Vue.js
+
+  - Service operational state monitoring and display
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Repository
+
+
+  https://github.com/lanbugs/mossboard
+brand: lanbugs
+updated_at: 2026-11-21 08:30

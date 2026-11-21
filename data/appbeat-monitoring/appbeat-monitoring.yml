@@ -1,0 +1,27 @@
+name: AppBeat Monitoring
+description: Uptime monitoring with integrated status page.
+source_url: https://www.appbeat.io/
+category: Uptime & Website Monitoring
+tags:
+  - uptime-monitoring
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  AppBeat Monitoring provides uptime monitoring with an integrated status page.
+
+  ## Features
+
+  - Uptime monitoring
+  - Integrated status page
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://www.appbeat.io/
+brand: AppBeat
+updated_at: 2026-11-21 08:30

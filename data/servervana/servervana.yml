@@ -1,0 +1,48 @@
+name: Servervana
+description: Advanced uptime monitoring with support for large projects and
+  teams. Provides HTTP monitoring, Browser based monitoring, DNS monitoring,
+  domain monitoring, status pages and more. The free tier includes 10 HTTP
+  monitors, 1 DNS monitor and one status page.
+source_url: https://servervana.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Uptime monitoring
+  - DNS monitoring
+  - Status pages
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Servervana provides advanced uptime monitoring with support for large projects
+  and teams.
+
+
+  ## Features
+
+
+  - HTTP monitoring
+
+  - Browser based monitoring
+
+  - DNS monitoring
+
+  - Domain monitoring
+
+  - Status pages
+
+  - 10 HTTP monitors (free tier)
+
+  - 1 DNS monitor (free tier)
+
+  - One status page (free tier)
+
+
+  ## Pricing
+
+
+  Free tier available.
+brand: Servervana
+images: []
+updated_at: 2026-11-21 08:30

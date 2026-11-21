@@ -1,0 +1,28 @@
+name: Statuspal
+description: Hosted status pages & monitoring.
+source_url: https://statuspal.io
+category: Status Pages
+tags:
+  - status-pages
+  - uptime-monitoring
+  - hosted
+featured: false
+markdown: |-
+  ## Overview
+
+  Statuspal provides hosted status pages and monitoring.
+
+  ## Features
+
+  - Hosted status pages
+  - Monitoring
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://statuspal.io
+brand: Statuspal
+updated_at: 2026-11-21 08:30

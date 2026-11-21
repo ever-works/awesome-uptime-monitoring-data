@@ -1,0 +1,32 @@
+name: LastPing
+description: Dead man's switch for AI agents, cron jobs and CI. Free for
+  individuals with unlimited monitors and destinations. Let AI agents build
+  monitoring for everything including themselves.
+source_url: https://lastping.com/
+category: Cron & Heartbeat Monitoring
+tags:
+  - Free Plan
+  - Dead man's switch
+  - Cron monitoring
+  - AI agents
+featured: false
+markdown: |-
+  ## Overview
+
+  LastPing is a dead man's switch for AI agents, cron jobs and CI.
+
+  ## Features
+
+  - Dead man's switch
+  - AI agents monitoring
+  - Cron jobs monitoring
+  - CI monitoring
+  - Unlimited monitors (free for individuals)
+  - Unlimited destinations
+
+  ## Pricing
+
+  Free for individuals with unlimited monitors and destinations.
+brand: LastPing
+images: []
+updated_at: 2026-11-21 08:30

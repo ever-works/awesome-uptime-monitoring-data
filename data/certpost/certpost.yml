@@ -1,0 +1,40 @@
+name: CertPost
+description: Live SSL/TLS certificate monitoring service that monitors
+  certificates on port 443 or custom ports such as SMTP/IMAP. Reads the served
+  certificate on the wire, performs full chain verification, and sends alerts
+  via email or webhook before expiration. Free tier includes 3 certificates
+  monitored forever.
+source_url: https://certpost.io/
+category: SSL & Domain Monitoring
+tags:
+  - SSL monitoring
+  - Free Plan
+  - certificates
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CertPost provides live SSL/TLS certificate monitoring on port 443 or custom
+  ports (SMTP/IMAP). It reads the served certificate on the wire, performs full
+  chain verification, and sends alerts via email or webhook before expiration.
+
+
+  ## Features
+
+
+  - Live SSL/TLS certificate monitoring on port 443 or custom ports
+
+  - Reads served certificate on the wire
+
+  - Full chain verification
+
+  - Alerts via email or webhook before expiration
+
+
+  ## Pricing
+
+
+  Free tier: 3 certificates monitored forever.
+brand: CertPost
+updated_at: 2026-11-21 08:30

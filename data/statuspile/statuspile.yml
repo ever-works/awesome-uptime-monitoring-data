@@ -1,0 +1,36 @@
+name: StatusPile
+description: StatusPile is a status page aggregation service that lets you track
+  the status pages of your upstream providers in one place. It monitors multiple
+  external status pages and aggregates their incidents and uptime into a single
+  dashboard, helping teams stay informed about third-party service outages. The
+  service is offered with a free plan.
+source_url: https://statuspile.com
+category: Status Pages
+tags:
+  - Free Plan
+  - Aggregation
+  - Upstream Monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  StatusPile is described as "a status page of status pages." It enables users
+  to track the status pages of their upstream providers, aggregating incidents
+  and uptime across multiple third-party services into one consolidated view.
+
+
+  ## Pricing
+
+
+  Free plan available as listed on free-for-dev.
+
+
+  ## Source
+
+
+  Listed on the free-for-dev repository
+  (https://github.com/ripienaar/free-for-dev) under the Monitoring section.
+brand: StatusPile
+images: []
+updated_at: 2026-11-21 08:30

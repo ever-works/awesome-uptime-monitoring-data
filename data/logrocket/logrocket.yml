@@ -1,0 +1,23 @@
+name: LogRocket
+description: Session replay with performance monitoring for web apps. Offers
+  session recording, network monitoring, console and error logs, and Redux/Vuex
+  integration.
+source_url: https://logrocket.com
+category: Uptime & Website Monitoring
+tags:
+  - Session Replay
+  - Performance
+  - Frontend
+markdown: |-
+  ## Overview
+
+  LogRocket is session replay with performance monitoring for web apps.
+
+  ## Key Features
+
+  - Session recording
+  - Network monitoring
+  - Console and error logs
+  - Redux/Vuex integration
+brand: LogRocket
+updated_at: 2026-11-21 08:30

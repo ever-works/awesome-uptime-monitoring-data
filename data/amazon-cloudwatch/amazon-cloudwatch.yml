@@ -1,0 +1,42 @@
+name: Amazon CloudWatch
+description: AWS CloudWatch is a monitoring and observability service that
+  provides metrics, logs, and alarms for AWS resources and applications. The
+  free tier includes 10 custom metrics and alarms, 1 million API requests, and 5
+  GB of log data ingestion and archive per month.
+source_url: https://aws.amazon.com/cloudwatch/
+category: Uptime & Website Monitoring
+tags:
+  - Free Tier
+  - Metrics
+  - Logs
+  - AWS
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Amazon CloudWatch is a monitoring and observability service built for DevOps
+  engineers, developers, site reliability engineers (SREs), and IT managers. It
+  provides data and actionable insights to monitor applications, understand and
+  respond to system-wide performance changes, and optimize resource utilization.
+
+
+  ## Free Tier
+
+
+  - 10 custom metrics and alarms
+
+  - 1 million API requests per month
+
+  - 5 GB of log data ingestion per month
+
+  - 5 GB of log data archive per month
+
+
+  ## Source
+
+
+  Listed under Amazon Web Services in the free-for-dev repository:
+  https://github.com/ripienaar/free-for-dev#monitoring
+brand: Amazon Web Services
+updated_at: 2026-11-21 08:30

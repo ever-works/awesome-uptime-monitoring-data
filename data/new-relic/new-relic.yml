@@ -1,0 +1,30 @@
+name: New Relic
+description: Enterprise synthetic monitoring platform with scripted browser
+  tests. Offers API and browser monitoring, global locations, integration with
+  APM, and performance benchmarking.
+source_url: https://newrelic.com
+category: Synthetic & API Monitoring
+tags:
+  - Enterprise
+  - API
+  - Synthetic
+markdown: >-
+  ## Overview
+
+
+  New Relic Synthetics is an enterprise synthetic monitoring platform with
+  scripted browser tests.
+
+
+  ## Key Features
+
+
+  - API and browser monitoring
+
+  - Global locations
+
+  - Integration with APM
+
+  - Performance benchmarking
+brand: New Relic
+updated_at: 2026-11-21 08:30

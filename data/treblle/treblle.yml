@@ -1,0 +1,38 @@
+name: Treblle
+description: API observability and governance platform that helps teams build,
+  ship, and govern APIs. Provides advanced API log aggregation, observability,
+  docs, and debugging with a limit of up to 250k requests per month on the free
+  tier.
+source_url: https://treblle.com
+category: Synthetic & API Monitoring
+tags:
+  - API
+  - observability
+  - freemium
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Treblle helps teams build, ship, and govern APIs with advanced API log
+  aggregation, observability, docs, and debugging.
+
+
+  ## Features
+
+
+  - API log aggregation
+
+  - Observability
+
+  - API documentation
+
+  - Debugging
+
+
+  ## Pricing
+
+
+  Free tier includes all features with up to 250k requests per month.
+brand: Treblle
+updated_at: 2026-11-21 08:30

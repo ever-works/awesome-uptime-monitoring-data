@@ -1,0 +1,37 @@
+name: isitdownstatus
+description: Free public JSON API returning real-time status for 500+ popular
+  services (GitHub, Stripe, AWS, etc.). No auth required, CORS enabled.
+source_url: https://isitdownstatus.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - API
+  - Status API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  isitdownstatus is a free public JSON API returning real-time status for 500+
+  popular services.
+
+
+  ## Features
+
+
+  - Real-time status for 500+ services
+
+  - JSON API
+
+  - No auth required
+
+  - CORS enabled
+
+
+  ## Pricing
+
+
+  Free.
+brand: isitdownstatus
+images: []
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,39 @@
+name: StatusTicker
+description: Aggregated service provider incident and outage monitoring.
+source_url: https://statusticker.com
+category: Status Pages
+tags:
+  - status-pages
+  - aggregator
+  - incident-monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  StatusTicker provides aggregated service provider incident and outage
+  monitoring.
+
+
+  ## Features
+
+
+  - Aggregated incident monitoring
+
+  - Outage monitoring
+
+  - Service provider tracking
+
+
+  ## Pricing
+
+
+  Commercial (paid).
+
+
+  ## Website
+
+
+  https://statusticker.com
+brand: StatusTicker
+updated_at: 2026-11-21 08:30

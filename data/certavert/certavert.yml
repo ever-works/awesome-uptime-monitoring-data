@@ -1,0 +1,43 @@
+name: CertAvert
+description: SSL/TLS certificate monitoring service that checks expiry, chain
+  problems, revocation, and host mismatch on any port. Offers expiry
+  notifications via email, Slack, or Discord with a free tier covering 15
+  domains.
+source_url: https://certavert.com/
+category: SSL & Domain Monitoring
+tags:
+  - SSL monitoring
+  - Free Plan
+  - certificates
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CertAvert monitors SSL/TLS certificates on any port, checking expiry, chain
+  problems, revocation, and host mismatch.
+
+
+  ## Features
+
+
+  - Monitor SSL/TLS certificates on any port
+
+  - Check certificate expiry
+
+  - Check chain problems
+
+  - Check revocation status
+
+  - Check host mismatch
+
+  - Expiry notifications via email, Slack, or Discord
+
+
+  ## Pricing
+
+
+  Free tier: Monitor 15 domains free with expiry notifications via email, Slack
+  or Discord. No credit card required for signup.
+brand: CertAvert
+updated_at: 2026-11-21 08:30

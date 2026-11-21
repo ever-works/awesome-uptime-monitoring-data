@@ -1,0 +1,15 @@
+## Overview
+
+Oh Dear monitors the health of your entire website, offering whole-site monitoring, cron job monitoring, and application health checks.
+
+## Features
+
+- Whole-site monitoring
+- Cron job monitoring
+- Application health
+- Actionable alerts
+
+## Pricing
+
+- Free Trial available
+- €15 per month (2 Websites)

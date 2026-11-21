@@ -1,0 +1,31 @@
+name: Cabot
+description: Self-hosted watchdog for infrastructure monitoring. Integrates with
+  Graphite, Jenkins, and Arachnys, supports on-call rotation, SMS and phone call
+  alerts. Python-based.
+source_url: https://github.com/arachnys/cabot
+category: Open-Source & Self-Hosted
+tags:
+  - Open Source
+  - Self-Hosted
+  - On-Call
+markdown: |-
+  ## Overview
+
+  Cabot is a self-hosted watchdog for infrastructure monitoring.
+
+  ## Key Features
+
+  - Integration with Graphite, Jenkins, Arachnys
+  - On-call rotation support
+  - SMS and phone call alerts
+  - Python-based
+
+  ## License
+
+  Open source
+
+  ## Repository
+
+  https://github.com/arachnys/cabot
+brand: Arachnys
+updated_at: 2026-11-21 08:30

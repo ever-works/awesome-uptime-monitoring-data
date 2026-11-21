@@ -1,0 +1,40 @@
+name: Kardio
+description: Simple Health Status Tool with Rich UI for Services deployed on
+  Kubernetes and other platforms.
+source_url: https://github.com/tmobile/kardio
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - kubernetes
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Kardio is a simple Health Status Tool with Rich UI for Services deployed on
+  Kubernetes and other platforms.
+
+
+  ## Features
+
+
+  - Rich UI
+
+  - Kubernetes support
+
+  - Multi-platform service health status
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Repository
+
+
+  https://github.com/tmobile/kardio
+brand: tmobile
+updated_at: 2026-11-21 08:30

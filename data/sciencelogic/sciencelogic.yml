@@ -1,0 +1,54 @@
+name: ScienceLogic
+description: ScienceLogic is a commercial IT infrastructure monitoring and AIOps
+  platform written in Python. It uses MySQL for data storage, offers
+  auto-discovery, SNMP, syslog, plugins, trending, trend prediction, triggers, a
+  full-control web app, distributed monitoring, and inventory under a commercial
+  license.
+source_url: https://www.sciencelogic.com
+category: Open-Source & Self-Hosted
+tags:
+  - commercial
+  - AIOps
+  - Python
+markdown: >-
+  ## Overview
+
+
+  ScienceLogic is a commercial IT monitoring and automation platform that
+  provides infrastructure monitoring, service mapping, and AIOps capabilities
+  for enterprise IT environments.
+
+
+  ## Features
+
+
+  - Auto-discovery of hosts and network devices
+
+  - Agentless monitoring
+
+  - SNMP, Syslog, and plugin support
+
+  - Trending and trend prediction
+
+  - Threshold triggers and alerts
+
+  - Full-control web application
+
+  - Distributed monitoring and inventory
+
+  - Access control and IPv6 support
+
+  - Network maps
+
+  - MySQL data storage
+
+
+  ## Pricing
+
+
+  Commercial (enterprise) licensing.
+brand: ScienceLogic
+brand_logo_url: https://www.sciencelogic.com/wp-content/themes/sciencelogic/assets/images/logo.svg
+images:
+  - https://www.sciencelogic.com/wp-content/themes/sciencelogic/assets/images/logo.svg
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,40 @@
+name: Alerty Monitoring
+description: APM & monitoring for your app and the services it depends on, with
+  agents that help you debug.
+source_url: https://www.alerty.ai
+category: Uptime & Website Monitoring
+tags:
+  - monitoring
+  - APM
+  - debugging
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Alerty Monitoring is an APM & monitoring solution for applications and their
+  dependencies.
+
+
+  ## Features
+
+
+  - APM & monitoring
+
+  - Debugging agents
+
+  - Service dependency monitoring
+
+
+  ## Pricing
+
+
+  Commercial (paid).
+
+
+  ## Website
+
+
+  https://www.alerty.ai
+brand: Alerty
+updated_at: 2026-11-21 08:30

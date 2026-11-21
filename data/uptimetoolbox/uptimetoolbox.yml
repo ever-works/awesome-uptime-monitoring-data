@@ -1,0 +1,29 @@
+name: UptimeToolbox
+description: Website/Server monitors with status pages.
+source_url: https://www.uptimetoolbox.com/
+category: Uptime & Website Monitoring
+tags:
+  - uptime-monitoring
+  - server-monitoring
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  UptimeToolbox provides website and server monitors with status pages.
+
+  ## Features
+
+  - Website monitoring
+  - Server monitoring
+  - Status pages
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://www.uptimetoolbox.com/
+brand: UptimeToolbox
+updated_at: 2026-11-21 08:30

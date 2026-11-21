@@ -1,0 +1,57 @@
+name: Checkmk
+description: Checkmk is an open-source infrastructure and application monitoring
+  platform written in C and Python. It uses RRDtool for data storage, offers
+  auto-discovery, SNMP, syslog, plugins, threshold triggers, and a full-control
+  web interface under the GNU GPL license.
+source_url: https://checkmk.com
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - RRDtool
+markdown: >-
+  ## Overview
+
+
+  Checkmk is an open-source monitoring platform for infrastructure,
+  applications, and networks. It is written in C and Python and uses RRDtool for
+  storing performance data.
+
+
+  ## Features
+
+
+  - Auto-discovery of hosts and network devices
+
+  - Agentless and agent-based monitoring
+
+  - SNMP, Syslog, and plugin support
+
+  - Trending and trend prediction
+
+  - Threshold triggers and alerts
+
+  - Full-control web application
+
+  - Distributed monitoring and inventory
+
+  - Access control and IPv6 support
+
+  - Network maps
+
+
+  ## License
+
+
+  Released under the GNU General Public License (GPL).
+
+
+  ## Repository
+
+
+  https://github.com/tribe29/checkmk
+brand: Checkmk
+brand_logo_url: https://checkmk.com/assets/images/checkmk_logo.svg
+images:
+  - https://checkmk.com/assets/images/checkmk_logo.svg
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,43 @@
+name: Spork Status Pages
+description: Status pages with custom domains, auto-incidents from uptime
+  monitoring, and webhook/RSS notifications.
+source_url: https://sporkops.com
+category: Status Pages
+tags:
+  - status-pages
+  - uptime-monitoring
+  - webhooks
+  - rss
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Spork Status Pages provides status pages with custom domains, auto-incidents
+  from uptime monitoring, and webhook/RSS notifications.
+
+
+  ## Features
+
+
+  - Status pages
+
+  - Custom domains
+
+  - Auto-incidents from uptime monitoring
+
+  - Webhook and RSS notifications
+
+
+  ## Pricing
+
+
+  Commercial (paid).
+
+
+  ## Website
+
+
+  https://sporkops.com
+brand: Spork
+updated_at: 2026-11-21 08:30

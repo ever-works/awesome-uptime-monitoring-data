@@ -1,0 +1,49 @@
+name: CronAlive
+description: Heartbeat monitoring for cron jobs, plus HTTP uptime and TLS expiry
+  checks, and a Laravel package that creates checks from your scheduler. Free
+  tier with 10 checks, HTTP interval from 5 min, 30 days of history, 50k
+  pings/mo.
+source_url: https://cronalive.com/
+category: Cron & Heartbeat Monitoring
+tags:
+  - Free Plan
+  - Cron monitoring
+  - Heartbeat monitoring
+  - Laravel
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CronAlive provides heartbeat monitoring for cron jobs, plus HTTP uptime and
+  TLS expiry checks. Includes a Laravel package that creates checks from your
+  scheduler.
+
+
+  ## Features
+
+
+  - Heartbeat monitoring for cron jobs
+
+  - HTTP uptime checks
+
+  - TLS expiry checks
+
+  - Laravel package for scheduler integration
+
+  - 10 checks (free tier)
+
+  - HTTP interval from 5 min
+
+  - 30 days of history
+
+  - 50k pings/mo
+
+
+  ## Pricing
+
+
+  Free tier available.
+brand: CronAlive
+images: []
+updated_at: 2026-11-21 08:30

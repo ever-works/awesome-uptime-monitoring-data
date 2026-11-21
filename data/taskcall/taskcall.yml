@@ -1,0 +1,27 @@
+name: TaskCall
+description: Offers status page along with incident response management.
+source_url: http://taskcallapp.com/
+category: Status Pages
+tags:
+  - status-pages
+  - incident-management
+featured: false
+markdown: |-
+  ## Overview
+
+  TaskCall offers a status page along with incident response management.
+
+  ## Features
+
+  - Status pages
+  - Incident response management
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  http://taskcallapp.com/
+brand: TaskCall
+updated_at: 2026-11-21 08:30

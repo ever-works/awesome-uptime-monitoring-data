@@ -1,0 +1,27 @@
+name: Pingmeter
+description: 5 uptime monitors with 10-minute interval. Monitor SSH, HTTP,
+  HTTPS, and any custom TCP ports.
+source_url: https://pingmeter.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Uptime monitoring
+  - TCP monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  Pingmeter provides uptime monitoring with 5 monitors at 10-minute intervals.
+
+  ## Features
+
+  - 5 uptime monitors
+  - 10-minute check interval
+  - Monitor SSH, HTTP, HTTPS, and custom TCP ports
+
+  ## Pricing
+
+  Free plan available.
+brand: Pingmeter
+images: []
+updated_at: 2026-11-21 08:30

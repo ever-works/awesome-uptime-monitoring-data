@@ -1,0 +1,60 @@
+name: InterMapper
+description: InterMapper is a network monitoring and mapping software by
+  HelpSystems that runs on Windows, Linux, and macOS. It uses PostgreSQL for
+  data storage, offers auto-discovery, SNMP, syslog, plugins, triggers, a
+  viewing web app, distributed monitoring, and inventory under a limited free /
+  commercial license model.
+source_url: https://intermapper.com
+category: Open-Source & Self-Hosted
+tags:
+  - commercial
+  - limited-free
+  - network-mapping
+markdown: >-
+  ## Overview
+
+
+  InterMapper is a network monitoring and network mapping tool that
+  automatically discovers network devices and monitors their status. It is
+  developed by HelpSystems and runs on Windows, Linux, and macOS.
+
+
+  ## Features
+
+
+  - Auto-discovery of hosts and network devices
+
+  - Agentless monitoring
+
+  - SNMP, Syslog, and plugin support
+
+  - Trending
+
+  - Threshold triggers and alerts
+
+  - Viewing web application
+
+  - Distributed monitoring and inventory
+
+  - Access control and IPv6 support
+
+  - Network maps
+
+  - PostgreSQL data storage
+
+
+  ## Pricing
+
+
+  Limited free edition available; commercial licensing for full features.
+
+
+  ## Platform
+
+
+  Windows, Linux, macOS
+brand: HelpSystems
+brand_logo_url: https://intermapper.com/wp-content/uploads/2021/01/intermapper-logo.svg
+images:
+  - https://intermapper.com/wp-content/uploads/2021/01/intermapper-logo.svg
+updated_at: 2026-11-21 08:30

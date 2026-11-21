@@ -1,0 +1,61 @@
+name: Zenoss Core
+description: Zenoss Core is an open-source IT infrastructure monitoring platform
+  written in Python and Java. It uses ZODB, MariaDB, and Apache HBase for data
+  storage, offers auto-discovery, SNMP, syslog, plugins, trending, trend
+  prediction, triggers, a full-control web app, distributed monitoring, and
+  inventory under a free Core GPL / commercial Enterprise license model.
+source_url: https://www.zenoss.com
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - commercial
+  - self-hosted
+  - Python
+markdown: >-
+  ## Overview
+
+
+  Zenoss Core is an open-source IT monitoring platform that provides
+  infrastructure monitoring, event management, and performance analysis. It is
+  written in Python and Java.
+
+
+  ## Features
+
+
+  - Auto-discovery of hosts and network devices
+
+  - Agentless monitoring
+
+  - SNMP, Syslog, and plugin support
+
+  - Trending and trend prediction
+
+  - Threshold triggers and alerts
+
+  - Full-control web application
+
+  - Distributed monitoring and inventory
+
+  - Access control and IPv6 support
+
+  - Network maps
+
+  - ZODB, MariaDB, Apache HBase data storage
+
+
+  ## Pricing
+
+
+  Free Core edition (GPL); commercial Enterprise edition available.
+
+
+  ## License
+
+
+  Free Core GPL, Commercial Enterprise.
+brand: Zenoss
+brand_logo_url: https://www.zenoss.com/wp-content/uploads/2021/01/zenoss-logo.svg
+images:
+  - https://www.zenoss.com/wp-content/uploads/2021/01/zenoss-logo.svg
+updated_at: 2026-11-21 08:30

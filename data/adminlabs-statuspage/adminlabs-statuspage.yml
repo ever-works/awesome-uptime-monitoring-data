@@ -1,0 +1,21 @@
+name: AdminLabs Statuspage
+description: Status page service from AdminLabs.
+source_url: https://www.adminlabs.com/status-page/
+category: Status Pages
+tags:
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  AdminLabs Statuspage is a status page service from AdminLabs.
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://www.adminlabs.com/status-page/
+brand: AdminLabs
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,37 @@
+name: DownDetector
+description: "DownDetector is a simple service that tells you whether a website
+  is down, featuring real-time monitoring, user reports, a wide range of
+  services, and geographical insights. Pricing model: freemium. Deployment:
+  cloud."
+source_url: https://downdetector.com/
+category: Uptime & Website Monitoring
+tags:
+  - freemium
+  - user reports
+  - cloud
+markdown: >-
+  ## Overview
+
+
+  DownDetector is a service that reports whether websites and online services
+  are down based on real-time monitoring and user reports.
+
+
+  ## Features
+
+
+  - Real-time Monitoring
+
+  - User Reports
+
+  - Wide Range of Services
+
+  - Geographical Insights
+
+
+  ## Pricing
+
+
+  - Freemium
+brand: Ookla
+updated_at: 2026-11-21 08:30

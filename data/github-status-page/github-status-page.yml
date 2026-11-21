@@ -1,0 +1,30 @@
+name: GitHub Status Page
+description: GitHub powered status page utilizing GitHub Actions to fetch
+  metrics, Issues to generate report incidents and GitHub Pages for hosting.
+source_url: https://github.com/Bullrich/Status-Page
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  GitHub Status Page is a GitHub-powered status page solution.
+
+  ## Features
+
+  - GitHub Actions to fetch metrics
+  - GitHub Issues to generate report incidents
+  - GitHub Pages for hosting
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/Bullrich/Status-Page
+brand: Bullrich
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,31 @@
+name: Peekaping
+description: Self-hosted uptime monitoring with real-time dashboard,
+  multi-channel notifications, status pages, and analytics.
+source_url: https://github.com/0xfurai/peekaping
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - uptime-monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  Peekaping is a self-hosted uptime monitoring solution.
+
+  ## Features
+
+  - Real-time dashboard
+  - Multi-channel notifications
+  - Status pages
+  - Analytics
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/0xfurai/peekaping
+brand: 0xfurai
+updated_at: 2026-11-21 08:30

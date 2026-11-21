@@ -1,0 +1,38 @@
+name: Dead Man's Snitch
+description: Monitoring for cron jobs. One free snitch (monitor), more if you
+  refer others to sign up. Tracks cron jobs and background tasks to alert when
+  they don't run as expected.
+source_url: https://deadmanssnitch.com/
+category: Cron & Heartbeat Monitoring
+tags:
+  - Free Plan
+  - Cron monitoring
+  - Heartbeat monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Dead Man's Snitch provides monitoring for cron jobs. Track cron jobs and
+  background tasks to alert when they don't run as expected.
+
+
+  ## Features
+
+
+  - Cron job monitoring
+
+  - One free snitch (monitor)
+
+  - More snitches via referrals
+
+  - Alerts when jobs don't run
+
+
+  ## Pricing
+
+
+  Free tier includes one snitch. Additional snitches via referrals.
+brand: Dead Man's Snitch
+images: []
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,41 @@
+name: BusinessLOG SOC
+description: "BusinessLOG SOC is a centralized log management and SIEM platform
+  built for compliance, auditing, anomaly detection, and infrastructure
+  visibility. Pricing model: paid, with a free trial available at €2.70 per
+  month per host. Deployment: cloud."
+source_url: https://businesslog.com/
+category: Open-Source & Self-Hosted
+tags:
+  - paid
+  - siem
+  - log management
+markdown: >-
+  ## Overview
+
+
+  BusinessLOG SOC provides centralized log management and SIEM capabilities for
+  compliance, auditing, anomaly detection, and infrastructure visibility.
+
+
+  ## Features
+
+
+  - Log Collection
+
+  - SIEM Capabilities
+
+  - Compliance and Auditing
+
+  - Anomaly Detection
+
+  - Infrastructure Visibility
+
+
+  ## Pricing
+
+
+  - Free Trial available
+
+  - Paid: €2.70 per month per host
+brand: BusinessLOG
+updated_at: 2026-11-21 08:30

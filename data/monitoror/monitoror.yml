@@ -1,0 +1,23 @@
+name: Monitoror
+description: Monitoring wallboard.
+source_url: https://monitoror.com/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  Monitoror is a monitoring wallboard tool.
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/monitoror/monitoror
+brand: Monitoror
+updated_at: 2026-11-21 08:30

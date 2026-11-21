@@ -1,0 +1,27 @@
+name: PageCrawl
+description: Monitor website changes, free for up to 6 monitors with daily
+  checks. A change detection service for monitoring website updates.
+source_url: https://pagecrawl.io/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Change monitoring
+  - Website monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  PageCrawl monitors website changes.
+
+  ## Features
+
+  - Website change monitoring
+  - Up to 6 monitors (free)
+  - Daily checks
+
+  ## Pricing
+
+  Free for up to 6 monitors with daily checks.
+brand: PageCrawl
+images: []
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,58 @@
+name: Xymon/Hobbit
+description: Xymon (formerly Hobbit) is an open-source system and network
+  monitoring tool written in C and Shell. It uses flat file, RRDTool, and MySQL
+  (via plugin) data storage, supports auto-discovery via plugin, SNMP via
+  plugin, plugins, triggers, a web app for viewing/acknowledging/reporting,
+  distributed monitoring, and inventory under the GNU GPL license.
+source_url: https://xymon.com
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - Hobbit
+markdown: >-
+  ## Overview
+
+
+  Xymon is an open-source monitoring system for hosts and networks, originally
+  developed as Hobbit. It is written in C and Shell and provides real-time
+  monitoring, alerting, and historical data graphing.
+
+
+  ## Features
+
+
+  - Auto-discovery via plugin
+
+  - Plugin-based monitoring
+
+  - SNMP via plugin
+
+  - Threshold triggers and alerts
+
+  - Web application for viewing, acknowledging, and reporting
+
+  - Distributed monitoring and inventory
+
+  - Apache access control
+
+  - Network maps via plugin
+
+  - Flat file, RRDTool, MySQL (via plugin) data storage
+
+
+  ## License
+
+
+  Released under the GNU General Public License (GPL).
+
+
+  ## Repository
+
+
+  https://github.com/statping-ng/xymon
+brand: Xymon
+brand_logo_url: https://xymon.com/xymon-logo.png
+images:
+  - https://xymon.com/xymon-logo.png
+updated_at: 2026-11-21 08:30

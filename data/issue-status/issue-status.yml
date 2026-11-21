@@ -1,0 +1,23 @@
+name: Issue Status
+description: Simple, modern and flexible status page.
+source_url: https://github.com/tadhglewis/issue-status
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  Issue Status is a simple, modern and flexible status page tool.
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/tadhglewis/issue-status
+brand: tadhglewis
+updated_at: 2026-11-21 08:30

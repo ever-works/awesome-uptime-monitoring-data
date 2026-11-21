@@ -1,0 +1,60 @@
+name: SevOne
+description: SevOne is a commercial network performance monitoring platform
+  written in C, C++, and PHP. It uses MySQL for data storage, offers
+  auto-discovery, SNMP, syslog, plugins, trending, trend prediction, triggers, a
+  full-control web app, distributed monitoring, and inventory under a commercial
+  license.
+source_url: https://www.sevone.com
+category: Open-Source & Self-Hosted
+tags:
+  - commercial
+  - network-performance
+  - IBM
+markdown: >-
+  ## Overview
+
+
+  SevOne is a network performance management platform that collects, analyzes,
+  and visualizes network performance data at scale. It is now part of IBM and
+  written in C, C++, and PHP.
+
+
+  ## Features
+
+
+  - Auto-discovery of hosts and network devices
+
+  - Agentless monitoring
+
+  - SNMP, Syslog, and plugin support
+
+  - Trending and trend prediction
+
+  - Threshold triggers and alerts
+
+  - Full-control web application
+
+  - Distributed monitoring and inventory
+
+  - Access control and IPv6 support
+
+  - Network maps
+
+  - MySQL data storage
+
+
+  ## Pricing
+
+
+  Commercial (enterprise) licensing.
+
+
+  ## Platform
+
+
+  C, C++, PHP
+brand: IBM
+brand_logo_url: https://www.ibm.com/brand/logos/ibm-100.png
+images:
+  - https://www.ibm.com/brand/logos/ibm-100.png
+updated_at: 2026-11-21 08:30

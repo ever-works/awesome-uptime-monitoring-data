@@ -1,0 +1,39 @@
+name: StatusSight
+description: Status page aggregator for monitoring third-party services and APIs.
+source_url: https://statussight.com/
+category: Status Pages
+tags:
+  - status-pages
+  - aggregator
+  - api-monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  StatusSight is a status page aggregator for monitoring third-party services
+  and APIs.
+
+
+  ## Features
+
+
+  - Status page aggregation
+
+  - Third-party service monitoring
+
+  - API monitoring
+
+
+  ## Pricing
+
+
+  Commercial (paid).
+
+
+  ## Website
+
+
+  https://statussight.com/
+brand: StatusSight
+updated_at: 2026-11-21 08:30

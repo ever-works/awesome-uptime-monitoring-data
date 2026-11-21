@@ -1,0 +1,21 @@
+name: StatusCast
+description: Status page service.
+source_url: https://statuscast.com/
+category: Status Pages
+tags:
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  StatusCast is a status page service.
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://statuscast.com/
+brand: StatusCast
+updated_at: 2026-11-21 08:30

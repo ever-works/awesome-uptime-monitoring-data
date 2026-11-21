@@ -1,0 +1,31 @@
+name: StatusHub
+description: Communicate downtime with APIs, web-hooks, and automation.
+source_url: https://statushub.com/
+category: Status Pages
+tags:
+  - status-pages
+  - api
+  - webhooks
+  - automation
+featured: false
+markdown: |-
+  ## Overview
+
+  StatusHub helps communicate downtime with APIs, web-hooks, and automation.
+
+  ## Features
+
+  - Status pages
+  - APIs
+  - Webhooks
+  - Automation
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://statushub.com/
+brand: StatusHub
+updated_at: 2026-11-21 08:30

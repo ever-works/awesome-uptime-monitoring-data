@@ -1,0 +1,40 @@
+name: Beeceptor
+description: No-code, cloud-based platform for mocking and debugging
+  multi-protocol APIs (REST, SOAP, gRPC & GraphQL), providing instant servers
+  with rules-based logic, CRUD & stateful mocking, proxying, and CORS management
+  for faster integration and testing. The free plan includes 50 requests per
+  day.
+source_url: https://beeceptor.com
+category: Synthetic & API Monitoring
+tags:
+  - API
+  - mocking
+  - freemium
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Beeceptor is a no-code, cloud-based platform for mocking and debugging
+  multi-protocol APIs.
+
+
+  ## Features
+
+
+  - Instant mock servers for REST, SOAP, gRPC & GraphQL
+
+  - Rules-based logic and CRUD & stateful mocking
+
+  - Proxying and CORS management
+
+  - Public dashboard/endpoint for viewing submitted requests and responses
+
+
+  ## Pricing
+
+
+  Free plan includes 50 requests per day and a public dashboard/endpoint where
+  anyone with the dashboard URL can view submitted requests and responses.
+brand: Beeceptor
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,60 @@
+name: PA Server Monitor
+description: PA Server Monitor is a Windows-based server monitoring tool written
+  in C++ and .NET. It uses SQLite and Microsoft SQL Server for data storage,
+  offers auto-discovery, SNMP, syslog, plugins, trending, trend prediction,
+  triggers, a web app for viewing/acknowledging/reporting, distributed
+  monitoring, and inventory under a limited free / commercial license.
+source_url: https://www.poweradmin.com
+category: Open-Source & Self-Hosted
+tags:
+  - commercial
+  - limited-free
+  - Windows
+markdown: >-
+  ## Overview
+
+
+  PA Server Monitor is a server monitoring tool for Windows environments that
+  monitors servers, applications, and network devices. It is written in C++ and
+  .NET.
+
+
+  ## Features
+
+
+  - Auto-discovery of hosts and network devices
+
+  - Agentless monitoring
+
+  - SNMP, Syslog, and plugin support
+
+  - Trending and trend prediction
+
+  - Threshold triggers and alerts
+
+  - Web application for viewing, acknowledging, and reporting
+
+  - Distributed monitoring and inventory
+
+  - Access control and IPv6 support
+
+  - Network maps
+
+  - SQLite, Microsoft SQL Server data storage
+
+
+  ## Pricing
+
+
+  Limited free edition available; commercial licensing for full features.
+
+
+  ## Platform
+
+
+  Windows
+brand: Power Admin
+brand_logo_url: https://www.poweradmin.com/images/poweradmin-logo.png
+images:
+  - https://www.poweradmin.com/images/poweradmin-logo.png
+updated_at: 2026-11-21 08:30

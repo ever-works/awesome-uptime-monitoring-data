@@ -1,0 +1,21 @@
+name: Hund
+description: Uptime monitoring service.
+source_url: https://hund.io/
+category: Uptime & Website Monitoring
+tags:
+  - uptime-monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  Hund is an uptime monitoring service.
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://hund.io/
+brand: Hund
+updated_at: 2026-11-21 08:30

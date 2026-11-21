@@ -1,0 +1,44 @@
+name: RealUptime
+description: Uptime checks from 4 regions every 3 minutes, a public status page
+  with 100 subscribers, and API, CLI, Terraform and MCP access. Free for 10
+  monitors, commercial use allowed, no card required.
+source_url: https://realuptime.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Multi-region monitoring
+  - API
+  - CLI
+  - Terraform
+featured: false
+markdown: >-
+  ## Overview
+
+
+  RealUptime provides uptime checks from 4 regions every 3 minutes with a public
+  status page and API/CLI/Terraform/MCP access.
+
+
+  ## Features
+
+
+  - Uptime checks from 4 regions
+
+  - 3-minute check intervals
+
+  - Public status page with 100 subscribers
+
+  - API, CLI, Terraform and MCP access
+
+  - 10 monitors (free)
+
+  - Commercial use allowed
+
+
+  ## Pricing
+
+
+  Free for 10 monitors, commercial use allowed, no card required.
+brand: RealUptime
+images: []
+updated_at: 2026-11-21 08:30

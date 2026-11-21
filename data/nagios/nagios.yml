@@ -1,0 +1,36 @@
+name: Nagios
+description: Veteran open-source monitoring system with extensive plugin
+  ecosystem. Offers enterprise-grade reliability, thousands of plugins, network
+  server and application monitoring, and high customizability.
+source_url: https://www.nagios.org
+category: Open-Source & Self-Hosted
+tags:
+  - Open Source
+  - Self-Hosted
+  - Enterprise
+markdown: >-
+  ## Overview
+
+
+  Nagios is a veteran open-source monitoring system with an extensive plugin
+  ecosystem.
+
+
+  ## Key Features
+
+
+  - Enterprise-grade reliability
+
+  - Thousands of plugins
+
+  - Network, server, and application monitoring
+
+  - Highly customizable
+
+
+  ## License
+
+
+  Open source
+brand: Nagios
+updated_at: 2026-11-21 08:30

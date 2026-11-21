@@ -1,0 +1,61 @@
+name: NetXMS
+description: NetXMS is an open-source network and infrastructure monitoring
+  platform written in C and Java. It supports multiple database backends
+  including PostgreSQL, MariaDB, MySQL, MS SQL, Oracle, and SQLite, and offers
+  auto-discovery, SNMP, syslog, plugins, triggers, a web app, distributed
+  monitoring, and inventory under the GNU GPL license.
+source_url: https://www.netxms.org
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - multi-database
+  - self-hosted
+markdown: >-
+  ## Overview
+
+
+  NetXMS is an open-source network management and monitoring system that
+  provides monitoring, graphing, alerting, and reporting for IT infrastructure.
+  It is written in C and Java.
+
+
+  ## Features
+
+
+  - Auto-discovery of hosts and network devices
+
+  - Agentless monitoring
+
+  - SNMP, Syslog, and plugin support
+
+  - Triggers and alerts
+
+  - MIB compiler
+
+  - Web application
+
+  - Distributed monitoring and inventory
+
+  - Access control and IPv6 support
+
+  - Network maps
+
+  - Multi-database support: PostgreSQL, TimescaleDB, MariaDB, MySQL, MS SQL,
+  Oracle, SQLite
+
+
+  ## License
+
+
+  Released under the GNU General Public License (GPL).
+
+
+  ## Repository
+
+
+  https://github.com/netxms/netxms
+brand: NetXMS
+brand_logo_url: https://www.netxms.org/images/netxms-logo.png
+images:
+  - https://www.netxms.org/images/netxms-logo.png
+updated_at: 2026-11-21 08:30

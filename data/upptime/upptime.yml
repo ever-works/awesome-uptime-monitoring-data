@@ -1,0 +1,28 @@
+name: Upptime
+description: Monitor and status page powered by GitHub.
+source_url: https://github.com/upptime/upptime
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - uptime-monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  Upptime is a monitor and status page powered by GitHub.
+
+  ## Features
+
+  - GitHub-powered monitoring
+  - Status page generation
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/upptime/upptime
+brand: upptime
+updated_at: 2026-11-21 08:30

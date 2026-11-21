@@ -1,0 +1,28 @@
+name: PagerDuty Status Pages
+description: Status pages platform from PagerDuty.
+source_url: https://www.pagerduty.com/platform/business-ops/status-pages/
+category: Status Pages
+tags:
+  - status-pages
+  - pagerduty
+  - incident-management
+featured: false
+markdown: |-
+  ## Overview
+
+  PagerDuty Status Pages is a status pages platform from PagerDuty.
+
+  ## Features
+
+  - Status pages
+  - Incident management integration
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://www.pagerduty.com/platform/business-ops/status-pages/
+brand: PagerDuty
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,41 @@
+name: StatusList
+description: Hosted status pages, uptime monitoring and debug tools in one dashboard.
+source_url: https://statuslist.app
+category: Status Pages
+tags:
+  - status-pages
+  - uptime-monitoring
+  - debug-tools
+featured: false
+markdown: >-
+  ## Overview
+
+
+  StatusList provides hosted status pages, uptime monitoring and debug tools in
+  one dashboard.
+
+
+  ## Features
+
+
+  - Hosted status pages
+
+  - Uptime monitoring
+
+  - Debug tools
+
+  - Dashboard
+
+
+  ## Pricing
+
+
+  Commercial (paid).
+
+
+  ## Website
+
+
+  https://statuslist.app
+brand: StatusList
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,26 @@
+name: SiteSure
+description: Website and cron monitoring - 2 monitors free.
+source_url: https://sitesure.net/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Website monitoring
+  - Cron monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  SiteSure provides website and cron monitoring.
+
+  ## Features
+
+  - Website monitoring
+  - Cron monitoring
+  - 2 monitors free
+
+  ## Pricing
+
+  2 monitors free.
+brand: SiteSure
+images: []
+updated_at: 2026-11-21 08:30

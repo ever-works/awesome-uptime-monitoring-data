@@ -1,0 +1,45 @@
+name: APIStatus.watch
+description: Status page aggregator for 110+ developer APIs and cloud services,
+  with incident history, free email alerts, RSS feeds and embeddable status
+  badges.
+source_url: https://apistatus.watch
+category: Status Pages
+tags:
+  - status-pages
+  - aggregator
+  - free-plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  APIStatus.watch is a status page aggregator for developer APIs and cloud
+  services.
+
+
+  ## Features
+
+
+  - 110+ developer APIs and cloud services
+
+  - Incident history
+
+  - Free email alerts
+
+  - RSS feeds
+
+  - Embeddable status badges
+
+
+  ## Pricing
+
+
+  Freemium (free email alerts).
+
+
+  ## Website
+
+
+  https://apistatus.watch
+brand: APIStatus.watch
+updated_at: 2026-11-21 08:30

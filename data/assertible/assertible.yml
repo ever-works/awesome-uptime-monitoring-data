@@ -1,0 +1,23 @@
+name: Assertible
+description: Continuous API testing and monitoring platform. Offers
+  post-deployment testing, GitHub and CI/CD integration, SSL and response
+  validation, and team collaboration.
+source_url: https://assertible.com
+category: Synthetic & API Monitoring
+tags:
+  - API
+  - CI/CD
+  - SSL
+markdown: |-
+  ## Overview
+
+  Assertible is a continuous API testing and monitoring platform.
+
+  ## Key Features
+
+  - Post-deployment testing
+  - GitHub and CI/CD integration
+  - SSL and response validation
+  - Team collaboration
+brand: Assertible
+updated_at: 2026-11-21 08:30

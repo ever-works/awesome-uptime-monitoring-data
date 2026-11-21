@@ -1,0 +1,32 @@
+name: HertzBeat
+description: An open source, real-time monitoring system with agentless,
+  cluster, Prometheus-compatible, custom and status page capabilities.
+source_url: https://github.com/dromara/hertzbeat
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  HertzBeat is an open-source, real-time monitoring system.
+
+  ## Features
+
+  - Agentless monitoring
+  - Cluster support
+  - Prometheus-compatible
+  - Custom monitoring
+  - Status page capabilities
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/dromara/hertzbeat
+brand: dromara
+updated_at: 2026-11-21 08:30

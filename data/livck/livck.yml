@@ -1,0 +1,27 @@
+name: LIVCK
+description: Monitoring with private/public status page.
+source_url: https://livck.com
+category: Uptime & Website Monitoring
+tags:
+  - monitoring
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  LIVCK provides monitoring with private and public status pages.
+
+  ## Features
+
+  - Monitoring
+  - Private and public status pages
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://livck.com
+brand: LIVCK
+updated_at: 2026-11-21 08:30

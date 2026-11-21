@@ -1,0 +1,38 @@
+name: Hypermonitors
+description: Monitors your infrastructure from three different locations (ZH -
+  NYC - SG) with every outage checked from a 2nd location before alerts go out.
+  Free forever for 5 monitors and 5 minute checks.
+source_url: https://hypermonitors.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Multi-region monitoring
+  - Uptime monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Hypermonitors monitors infrastructure from three different locations (ZH - NYC
+  - SG) with every outage checked from a 2nd location before alerts go out.
+
+
+  ## Features
+
+
+  - Multi-location monitoring (ZH, NYC, SG)
+
+  - Outage verification from 2nd location
+
+  - 5 monitors (free forever)
+
+  - 5 minute checks
+
+
+  ## Pricing
+
+
+  Free forever for 5 monitors and 5 minute checks.
+brand: Hypermonitors
+images: []
+updated_at: 2026-11-21 08:30

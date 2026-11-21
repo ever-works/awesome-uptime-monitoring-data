@@ -1,0 +1,23 @@
+name: Sentry
+description: Application performance monitoring with error tracking. Offers
+  frontend and backend tracing, real user metrics, transaction profiling, and
+  issue correlation.
+source_url: https://sentry.io
+category: Uptime & Website Monitoring
+tags:
+  - API
+  - Performance
+  - Error Tracking
+markdown: |-
+  ## Overview
+
+  Sentry Performance is application performance monitoring with error tracking.
+
+  ## Key Features
+
+  - Frontend and backend tracing
+  - Real user metrics
+  - Transaction profiling
+  - Issue correlation
+brand: Sentry
+updated_at: 2026-11-21 08:30

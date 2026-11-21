@@ -1,0 +1,38 @@
+name: Inspector
+description: A complete Real-Time monitoring dashboard in less than one minute
+  with a free forever tier. Provides application performance monitoring and
+  error tracking.
+source_url: https://inspector.dev/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - APM
+  - Real-time monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Inspector provides a complete Real-Time monitoring dashboard with a free
+  forever tier.
+
+
+  ## Features
+
+
+  - Real-time monitoring dashboard
+
+  - Application performance monitoring
+
+  - Error tracking
+
+  - Quick setup
+
+
+  ## Pricing
+
+
+  Free forever tier available.
+brand: Inspector
+images: []
+updated_at: 2026-11-21 08:30

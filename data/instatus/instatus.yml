@@ -1,0 +1,28 @@
+name: Instatus
+description: Free online service with a static & customizable status page.
+source_url: https://instatus.com
+category: Status Pages
+tags:
+  - status-pages
+  - free-plan
+  - hosted
+featured: false
+markdown: |-
+  ## Overview
+
+  Instatus is a free online service with a static and customizable status page.
+
+  ## Features
+
+  - Static status pages
+  - Customizable design
+
+  ## Pricing
+
+  Freemium (free online service).
+
+  ## Website
+
+  https://instatus.com
+brand: Instatus
+updated_at: 2026-11-21 08:30

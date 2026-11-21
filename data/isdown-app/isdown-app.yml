@@ -1,0 +1,31 @@
+name: IsDown.app
+description: Status page aggregator for all cloud dependencies, uptime
+  monitoring, and internal and private status pages.
+source_url: https://isdown.app
+category: Status Pages
+tags:
+  - status-pages
+  - aggregator
+  - uptime-monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  IsDown.app is a status page aggregator for cloud dependencies.
+
+  ## Features
+
+  - Status page aggregation
+  - Cloud dependency monitoring
+  - Uptime monitoring
+  - Internal and private status pages
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://isdown.app
+brand: IsDown.app
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,40 @@
+name: StatusGator
+description: Status page aggregator with public and private status pages and
+  website monitoring.
+source_url: https://statusgator.com/
+category: Status Pages
+tags:
+  - status-pages
+  - aggregator
+  - website-monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  StatusGator is a status page aggregator with public and private status pages
+  and website monitoring.
+
+
+  ## Features
+
+
+  - Status page aggregation
+
+  - Public and private status pages
+
+  - Website monitoring
+
+
+  ## Pricing
+
+
+  Commercial (paid).
+
+
+  ## Website
+
+
+  https://statusgator.com/
+brand: StatusGator
+updated_at: 2026-11-21 08:30

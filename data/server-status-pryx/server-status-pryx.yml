@@ -1,0 +1,23 @@
+name: Server-Status
+description: Server status monitoring tool.
+source_url: https://github.com/Pryx/server-status
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  Server-Status is a server status monitoring tool.
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/Pryx/server-status
+brand: Pryx
+updated_at: 2026-11-21 08:30

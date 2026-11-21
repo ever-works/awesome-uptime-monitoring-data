@@ -1,0 +1,22 @@
+name: Webhook.site
+description: Instant webhook testing and debugging endpoint. Offers unique URLs
+  for testing, request inspection, custom responses, and email forwarding.
+source_url: https://webhook.site
+category: Synthetic & API Monitoring
+tags:
+  - Webhook
+  - Testing
+  - Debugging
+markdown: |-
+  ## Overview
+
+  Webhook.site is an instant webhook testing and debugging endpoint.
+
+  ## Key Features
+
+  - Unique URLs for testing
+  - Request inspection
+  - Custom responses
+  - Email forwarding
+brand: Webhook.site
+updated_at: 2026-11-21 08:30

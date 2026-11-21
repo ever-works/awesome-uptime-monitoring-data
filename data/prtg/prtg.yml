@@ -1,0 +1,62 @@
+name: PRTG
+description: PRTG is a commercial network monitoring solution by Paessler
+  written in Delphi. It uses flat file data storage, offers auto-discovery,
+  SNMP, syslog, plugins, trending, triggers, a full-control web app, distributed
+  monitoring, and inventory under a limited free / commercial license model.
+source_url: https://www.paessler.com
+category: Open-Source & Self-Hosted
+tags:
+  - commercial
+  - limited-free
+  - SNMP
+markdown: >-
+  ## Overview
+
+
+  PRTG Network Monitor is an agentless network monitoring software that monitors
+  IT infrastructure, bandwidth, and applications using SNMP, WMI, and other
+  protocols. It is developed by Paessler and written in Delphi.
+
+
+  ## Features
+
+
+  - Auto-discovery of hosts and network devices
+
+  - Agentless monitoring
+
+  - SNMP, Syslog, and plugin support
+
+  - Trending
+
+  - Threshold triggers and alerts
+
+  - MIB compiler
+
+  - Full-control web application
+
+  - Distributed monitoring and inventory
+
+  - Access control and IPv6 support
+
+  - Network maps
+
+  - Flat file data storage
+
+
+  ## Pricing
+
+
+  Limited free edition available (up to 100 sensors); commercial licensing for
+  full features.
+
+
+  ## Platform
+
+
+  Windows
+brand: Paessler
+brand_logo_url: https://www.paessler.com/img/paessler_logo.svg
+images:
+  - https://www.paessler.com/img/paessler_logo.svg
+updated_at: 2026-11-21 08:30

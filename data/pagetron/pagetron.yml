@@ -1,0 +1,29 @@
+name: Pagetron
+description: Status page generator based on Prometheus, designed to be deployed
+  to Kubernetes clusters.
+source_url: https://github.com/agrrh/pagetron
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  Pagetron is a status page generator based on Prometheus.
+
+  ## Features
+
+  - Prometheus-based status page generation
+  - Designed for Kubernetes cluster deployment
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/agrrh/pagetron
+brand: agrrh
+updated_at: 2026-11-21 08:30

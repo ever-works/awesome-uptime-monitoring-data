@@ -1,0 +1,45 @@
+name: AlertKick
+description: Server security (eBPF agent for Linux), uptime monitoring, on-call
+  alerting/status pages in one product. Free tier includes 10 uptime monitors
+  and heartbeats, 5-minute check intervals, 7-day retention.
+source_url: https://alertkick.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Server security
+  - Uptime monitoring
+  - On-call alerting
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AlertKick is a server security and uptime monitoring product combining eBPF
+  agent for Linux with uptime monitoring, on-call alerting, and status pages.
+
+
+  ## Features
+
+
+  - Server security (eBPF agent for Linux)
+
+  - Uptime monitoring
+
+  - On-call alerting
+
+  - Status pages
+
+  - 10 uptime monitors and heartbeats (free tier)
+
+  - 5-minute check intervals
+
+  - 7-day retention
+
+
+  ## Pricing
+
+
+  Free tier available.
+brand: AlertKick
+images: []
+updated_at: 2026-11-21 08:30

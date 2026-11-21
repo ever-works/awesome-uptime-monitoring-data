@@ -1,0 +1,29 @@
+name: Pingzen
+description: Free uptime and API monitoring service offering up to 55 monitors
+  with 1-minute check intervals and instant alerts. Provides monitoring for
+  websites and APIs with notification capabilities.
+source_url: https://pingzen.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - API
+  - Uptime monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  Pingzen is a free uptime and API monitoring service.
+
+  ## Features
+
+  - Up to 55 monitors
+  - 1-minute check intervals
+  - Instant alerts
+  - Website and API monitoring
+
+  ## Pricing
+
+  Free plan available.
+brand: Pingzen
+images: []
+updated_at: 2026-11-21 08:30

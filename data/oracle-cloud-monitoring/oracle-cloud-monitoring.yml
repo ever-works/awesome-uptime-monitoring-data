@@ -1,0 +1,36 @@
+name: Oracle Cloud Monitoring
+description: Oracle Cloud Infrastructure Monitoring service provides ingestion
+  and retrieval of monitoring datapoints for cloud resources. The always-free
+  tier includes 500 million ingestion data points and 1 billion retrieval
+  datapoints per month.
+source_url: https://www.oracle.com/cloud/free/
+category: Uptime & Website Monitoring
+tags:
+  - Free Tier
+  - Metrics
+  - Oracle Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Oracle Cloud Monitoring is part of Oracle Cloud Infrastructure's always-free
+  services. It allows users to monitor the health and performance of their cloud
+  resources by collecting and retrieving monitoring datapoints.
+
+
+  ## Free Tier
+
+
+  - 500 million ingestion data points per month
+
+  - 1 billion retrieval datapoints per month
+
+
+  ## Source
+
+
+  Listed under Oracle Cloud in the free-for-dev repository:
+  https://github.com/ripienaar/free-for-dev#monitoring
+brand: Oracle Cloud
+updated_at: 2026-11-21 08:30

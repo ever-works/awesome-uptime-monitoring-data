@@ -1,0 +1,29 @@
+name: Uptimia
+description: Website monitoring, on-call alerting with status pages.
+source_url: https://www.uptimia.com/
+category: Uptime & Website Monitoring
+tags:
+  - website-monitoring
+  - on-call
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  Uptimia provides website monitoring, on-call alerting with status pages.
+
+  ## Features
+
+  - Website monitoring
+  - On-call alerting
+  - Status pages
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://www.uptimia.com/
+brand: Uptimia
+updated_at: 2026-11-21 08:30

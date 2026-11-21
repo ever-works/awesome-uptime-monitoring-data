@@ -1,0 +1,30 @@
+name: NixStats
+description: Service for servers, web, log and blacklists monitoring.
+source_url: https://nixstats.com/
+category: Uptime & Website Monitoring
+tags:
+  - server-monitoring
+  - web-monitoring
+  - log-monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  NixStats is a service for servers, web, log and blacklists monitoring.
+
+  ## Features
+
+  - Server monitoring
+  - Web monitoring
+  - Log monitoring
+  - Blacklist monitoring
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://nixstats.com/
+brand: NixStats
+updated_at: 2026-11-21 08:30

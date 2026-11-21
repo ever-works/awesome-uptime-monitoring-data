@@ -1,0 +1,26 @@
+name: Syagent
+description: Noncommercial free server monitoring service, alerts and metrics.
+source_url: https://syagent.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Server monitoring
+  - Alerts
+featured: false
+markdown: |-
+  ## Overview
+
+  Syagent is a noncommercial free server monitoring service.
+
+  ## Features
+
+  - Server monitoring
+  - Alerts
+  - Metrics
+
+  ## Pricing
+
+  Free.
+brand: Syagent
+images: []
+updated_at: 2026-11-21 08:30

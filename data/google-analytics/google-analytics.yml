@@ -1,0 +1,33 @@
+name: Google Analytics
+description: Basic real-time monitoring of user activity and traffic. Offers
+  active user tracking, geographic insights, event monitoring, and a free tier.
+source_url: https://analytics.google.com
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - RUM
+  - Analytics
+markdown: >-
+  ## Overview
+
+
+  Google Analytics Real-Time provides basic real-time monitoring of user
+  activity and traffic.
+
+
+  ## Key Features
+
+
+  - Active user tracking
+
+  - Geographic insights
+
+  - Event monitoring
+
+
+  ## Pricing
+
+
+  Free tier available.
+brand: Google
+updated_at: 2026-11-21 08:30

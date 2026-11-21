@@ -1,0 +1,29 @@
+name: Watchcron
+description: Cron job monitoring with heartbeat pings and alerts. Free tier with
+  up to 5 monitors and email notifications.
+source_url: https://watchcron.com/
+category: Cron & Heartbeat Monitoring
+tags:
+  - Free Plan
+  - Cron monitoring
+  - Heartbeat monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  Watchcron is a cron job monitoring service with heartbeat pings and alerts.
+
+  ## Features
+
+  - Cron job monitoring
+  - Heartbeat pings
+  - Alerts
+  - Up to 5 monitors (free tier)
+  - Email notifications
+
+  ## Pricing
+
+  Free tier available.
+brand: Watchcron
+images: []
+updated_at: 2026-11-21 08:30

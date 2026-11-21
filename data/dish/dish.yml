@@ -1,0 +1,30 @@
+name: dish
+description: Simple and fast socket checker written in Go, can be integrated
+  with a Telegram bot.
+source_url: https://github.com/savla-dev/savla-dish
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  dish is a simple and fast socket checker written in Go.
+
+  ## Features
+
+  - Socket checking
+  - Written in Go
+  - Telegram bot integration
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/savla-dev/savla-dish
+brand: savla-dev
+updated_at: 2026-11-21 08:30

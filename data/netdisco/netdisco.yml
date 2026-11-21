@@ -1,0 +1,58 @@
+name: Netdisco
+description: Netdisco is an open-source network management and discovery tool
+  written in Perl. It uses PostgreSQL for data storage, offers auto-discovery,
+  SNMP, syslog, plugins, triggers, a web app, distributed monitoring, and
+  inventory, and is released under the BSD license.
+source_url: https://netdisco.org
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - Perl
+  - PostgreSQL
+  - BSD
+markdown: >-
+  ## Overview
+
+
+  Netdisco is an open-source network management platform that provides network
+  discovery, inventory, and monitoring. It is written in Perl and uses
+  PostgreSQL as its data store.
+
+
+  ## Features
+
+
+  - Auto-discovery of hosts and network devices
+
+  - Agentless monitoring
+
+  - SNMP, Syslog, and plugin support
+
+  - Triggers and alerts
+
+  - Web application
+
+  - Distributed monitoring and inventory
+
+  - Access control and IPv6 support
+
+  - Network maps
+
+  - PostgreSQL data storage
+
+
+  ## License
+
+
+  Released under the BSD license.
+
+
+  ## Repository
+
+
+  https://github.com/netdisco/netdisco
+brand: Netdisco
+brand_logo_url: https://netdisco.org/images/netdisco-logo.png
+images:
+  - https://netdisco.org/images/netdisco-logo.png
+updated_at: 2026-11-21 08:30

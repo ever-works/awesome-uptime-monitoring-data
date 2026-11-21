@@ -1,0 +1,29 @@
+name: status-page
+description: Mountable status page for your Rails application, to check Cache,
+  Redis, Sidekiq.
+source_url: https://github.com/rails-engine/status-page
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  status-page is a mountable status page for Rails applications.
+
+  ## Features
+
+  - Mountable Rails engine
+  - Check Cache, Redis, Sidekiq status
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/rails-engine/status-page
+brand: rails-engine
+updated_at: 2026-11-21 08:30

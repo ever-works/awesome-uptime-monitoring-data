@@ -1,0 +1,38 @@
+name: Economize
+description: Economize helps demystify cloud infrastructure costs by organizing
+  cloud resources to optimize and report the same. Free for up to $5,000 spent
+  on Google Cloud Platform every month.
+source_url: https://economize.cloud/
+category: Open-Source & Self-Hosted
+tags:
+  - Free Plan
+  - Cloud cost
+  - GCP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Economize helps demystify cloud infrastructure costs by organizing cloud
+  resources to optimize and report spending.
+
+
+  ## Features
+
+
+  - Cloud infrastructure cost organization
+
+  - Resource optimization
+
+  - Cost reporting
+
+  - Google Cloud Platform support
+
+
+  ## Pricing
+
+
+  Free for up to $5,000 spent on Google Cloud Platform every month.
+brand: Economize
+images: []
+updated_at: 2026-11-21 08:30

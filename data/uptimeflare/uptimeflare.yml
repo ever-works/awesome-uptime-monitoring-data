@@ -1,0 +1,39 @@
+name: UptimeFlare
+description: Monitoring & status page completely powered by Cloudflare Workers & Pages.
+source_url: https://github.com/lyc8503/UptimeFlare
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - cloudflare
+featured: false
+markdown: >-
+  ## Overview
+
+
+  UptimeFlare is a monitoring and status page solution powered by Cloudflare
+  Workers & Pages.
+
+
+  ## Features
+
+
+  - Cloudflare Workers & Pages powered
+
+  - Monitoring
+
+  - Status page
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Repository
+
+
+  https://github.com/lyc8503/UptimeFlare
+brand: lyc8503
+updated_at: 2026-11-21 08:30

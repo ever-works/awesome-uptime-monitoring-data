@@ -1,0 +1,33 @@
+name: DownForAI
+description: Status page aggregator for AI services with real-time monitoring of
+  800+ AI tools and APIs (OpenAI, Anthropic, Gemini, Groq, Midjourney, etc.).
+  Free public API and SVG status badges.
+source_url: https://downforai.com
+category: Status Pages
+tags:
+  - status-pages
+  - aggregator
+  - ai-powered
+  - api
+featured: false
+markdown: |-
+  ## Overview
+
+  DownForAI is a status page aggregator for AI services.
+
+  ## Features
+
+  - Real-time monitoring of 800+ AI tools and APIs
+  - OpenAI, Anthropic, Gemini, Groq, Midjourney monitoring
+  - Free public API
+  - SVG status badges
+
+  ## Pricing
+
+  Freemium (free public API).
+
+  ## Website
+
+  https://downforai.com
+brand: DownForAI
+updated_at: 2026-11-21 08:30

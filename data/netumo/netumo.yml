@@ -1,0 +1,48 @@
+name: Netumo
+description: Website uptime and performance monitoring service that checks SSL
+  certificates, domains, and monitor issues from a single console with instant
+  notifications via Twitter and SMS. Offers a freemium pricing model with a Lite
+  plan at $9 per month.
+source_url: https://netumo.com
+category: Uptime & Website Monitoring
+tags:
+  - Freemium
+  - SSL Monitoring
+  - SMS Notifications
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Netumo is a website monitoring service that provides automatic checks for SSL
+  certificates, domains, and website monitor issues from one console, with
+  instant notifications on any issues.
+
+
+  ## Features
+
+
+  - Monitoring
+
+  - SSL Monitoring
+
+  - Twitter notifications
+
+  - SMS notifications
+
+
+  ## Pricing
+
+
+  - Freemium model
+
+  - Lite plan: $9 per month
+
+
+  ## Deployment
+
+
+  Cloud-based service
+brand: Netumo
+images: []
+updated_at: 2026-11-21 08:30

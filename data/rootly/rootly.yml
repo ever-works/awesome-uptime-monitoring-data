@@ -1,0 +1,28 @@
+name: Rootly
+description: Incident response platform with status pages built-in.
+source_url: https://rootly.io
+category: Status Pages
+tags:
+  - incident-management
+  - status-pages
+  - response-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Rootly is an incident response platform with status pages built-in.
+
+  ## Features
+
+  - Incident response
+  - Status pages
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://rootly.io
+brand: Rootly
+updated_at: 2026-11-21 08:30

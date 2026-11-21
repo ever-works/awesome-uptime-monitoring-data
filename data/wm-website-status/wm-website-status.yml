@@ -1,0 +1,38 @@
+name: WM Website Status
+description: A straightforward PHP script designed for monitoring the status and
+  latency of multiple domains.
+source_url: https://gitlab.com/WEB-Manufaktur/website-status-php-script
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  WM Website Status is a PHP script for monitoring the status and latency of
+  multiple domains.
+
+
+  ## Features
+
+
+  - PHP-based
+
+  - Domain status and latency monitoring
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Repository
+
+
+  https://gitlab.com/WEB-Manufaktur/website-status-php-script
+brand: WEB-Manufaktur
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,29 @@
+name: IncidentHub
+description: Status page aggregator monitoring SaaS and Cloud providers.
+source_url: https://incidenthub.cloud/
+category: Status Pages
+tags:
+  - status-pages
+  - aggregator
+  - saas
+featured: false
+markdown: |-
+  ## Overview
+
+  IncidentHub is a status page aggregator monitoring SaaS and Cloud providers.
+
+  ## Features
+
+  - Status page aggregation
+  - SaaS monitoring
+  - Cloud provider monitoring
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://incidenthub.cloud/
+brand: IncidentHub
+updated_at: 2026-11-21 08:30

@@ -1,0 +1,23 @@
+name: Statusphere
+description: API-first status page aggregator.
+source_url: https://github.com/metoro-io/statusphere
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  Statusphere is an API-first status page aggregator.
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/metoro-io/statusphere
+brand: metoro-io
+updated_at: 2026-11-21 08:30

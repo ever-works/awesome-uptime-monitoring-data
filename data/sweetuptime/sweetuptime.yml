@@ -1,0 +1,40 @@
+name: SweetUptime
+description: Server monitoring, uptime monitoring, DNS & domain monitoring.
+  Monitor 10 server, 10 uptime, and 10 domain for free.
+source_url: https://sweetuptime.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Server monitoring
+  - DNS monitoring
+  - Domain monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SweetUptime provides server monitoring, uptime monitoring, DNS & domain
+  monitoring.
+
+
+  ## Features
+
+
+  - Server monitoring
+
+  - Uptime monitoring
+
+  - DNS monitoring
+
+  - Domain monitoring
+
+  - Monitor 10 servers, 10 uptime, and 10 domains for free
+
+
+  ## Pricing
+
+
+  Free tier available.
+brand: SweetUptime
+images: []
+updated_at: 2026-11-21 08:30

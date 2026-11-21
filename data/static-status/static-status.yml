@@ -1,0 +1,23 @@
+name: Static status
+description: Bash script to generate a static status page.
+source_url: https://github.com/Cyclenerd/static_status
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  Static status is a Bash script to generate a static status page.
+
+  ## Pricing
+
+  Free and open-source.
+
+  ## Repository
+
+  https://github.com/Cyclenerd/static_status
+brand: Cyclenerd
+updated_at: 2026-11-21 08:30

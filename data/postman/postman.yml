@@ -1,0 +1,23 @@
+name: Postman
+description: API monitoring integrated with Postman collections. Offers
+  scheduled collection runs, environment variables, multi-region testing, and
+  integration with CI/CD.
+source_url: https://www.postman.com
+category: Synthetic & API Monitoring
+tags:
+  - API
+  - CI/CD
+  - Scheduled
+markdown: |-
+  ## Overview
+
+  Postman Monitors is API monitoring integrated with Postman collections.
+
+  ## Key Features
+
+  - Scheduled collection runs
+  - Environment variables
+  - Multi-region testing
+  - Integration with CI/CD
+brand: Postman
+updated_at: 2026-11-21 08:30

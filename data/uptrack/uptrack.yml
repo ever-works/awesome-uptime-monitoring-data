@@ -1,0 +1,33 @@
+name: Uptrack
+description: Uptime monitoring with 30s free checks, consecutive-check alert
+  confirmation, hosted status pages, and a built-in MCP server for AI agents.
+source_url: https://uptrack.app
+category: Uptime & Website Monitoring
+tags:
+  - uptime-monitoring
+  - status-pages
+  - mcp
+  - ai-powered
+featured: false
+markdown: |-
+  ## Overview
+
+  Uptrack provides uptime monitoring with hosted status pages.
+
+  ## Features
+
+  - Uptime monitoring
+  - 30s free checks
+  - Consecutive-check alert confirmation
+  - Hosted status pages
+  - Built-in MCP server for AI agents
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://uptrack.app
+brand: Uptrack
+updated_at: 2026-11-21 08:30

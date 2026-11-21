@@ -1,0 +1,31 @@
+name: Uptimeify.io
+description: Website and API monitoring with hosted status pages to visualize
+  service uptime and performance.
+source_url: https://uptimeify.io
+category: Uptime & Website Monitoring
+tags:
+  - uptime-monitoring
+  - api-monitoring
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  Uptimeify.io provides website and API monitoring with hosted status pages.
+
+  ## Features
+
+  - Website monitoring
+  - API monitoring
+  - Hosted status pages
+  - Uptime and performance visualization
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://uptimeify.io
+brand: Uptimeify.io
+updated_at: 2026-11-21 08:30

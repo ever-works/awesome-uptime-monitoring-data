@@ -1,0 +1,29 @@
+name: UpDown.io
+description: Uptime monitoring with flexible status with REST API.
+source_url: https://updown.io/
+category: Uptime & Website Monitoring
+tags:
+  - uptime-monitoring
+  - api
+  - status-pages
+featured: false
+markdown: |-
+  ## Overview
+
+  UpDown.io provides uptime monitoring with flexible status and REST API.
+
+  ## Features
+
+  - Uptime monitoring
+  - Flexible status
+  - REST API
+
+  ## Pricing
+
+  Commercial (paid).
+
+  ## Website
+
+  https://updown.io/
+brand: UpDown.io
+updated_at: 2026-11-21 08:30

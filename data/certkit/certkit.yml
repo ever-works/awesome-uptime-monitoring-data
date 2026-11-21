@@ -1,0 +1,37 @@
+name: CertKit
+description: SSL certificate management platform for issuance, renewal, and
+  monitoring. Includes Certificate Transparency Log search. Free tier covers 3
+  certificates and 1 user after the beta period.
+source_url: https://certkit.io/
+category: SSL & Domain Monitoring
+tags:
+  - SSL monitoring
+  - Free Plan
+  - certificates
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CertKit manages SSL Certificate issuance, renewal, and monitoring. It also
+  allows searching the Certificate Transparency Logs.
+
+
+  ## Features
+
+
+  - SSL Certificate issuance management
+
+  - SSL Certificate renewal management
+
+  - SSL Certificate monitoring
+
+  - Certificate Transparency Log search
+
+
+  ## Pricing
+
+
+  Free tier: 3 certificates and 1 user after the beta.
+brand: CertKit
+updated_at: 2026-11-21 08:30

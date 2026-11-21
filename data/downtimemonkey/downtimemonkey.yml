@@ -1,0 +1,37 @@
+name: DowntimeMonkey
+description: 60 uptime monitors with 5-minute interval. Provides email and Slack
+  alerts for website downtime monitoring.
+source_url: https://downtimemonkey.com/
+category: Uptime & Website Monitoring
+tags:
+  - Free Plan
+  - Uptime monitoring
+  - Slack alerts
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DowntimeMonkey provides uptime monitoring with 60 monitors at 5-minute
+  intervals.
+
+
+  ## Features
+
+
+  - 60 uptime monitors
+
+  - 5-minute check interval
+
+  - Email alerts
+
+  - Slack alerts
+
+
+  ## Pricing
+
+
+  Free plan available.
+brand: DowntimeMonkey
+images: []
+updated_at: 2026-11-21 08:30
